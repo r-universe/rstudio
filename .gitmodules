@@ -1,3 +1,208 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "blogdown"]
+	path = blogdown
+	url = https://github.com/rstudio/blogdown
+	shallow = true
+[submodule "bookdown"]
+	path = bookdown
+	url = https://github.com/rstudio/bookdown
+	shallow = true
+[submodule "config"]
+	path = config
+	url = https://github.com/rstudio/config
+	shallow = true
+[submodule "crosstalk"]
+	path = crosstalk
+	url = https://github.com/rstudio/crosstalk
+	shallow = true
+[submodule "distill"]
+	path = distill
+	url = https://github.com/rstudio/distill
+	shallow = true
+[submodule "DT"]
+	path = DT
+	url = https://github.com/rstudio/dt
+	shallow = true
+[submodule "dygraphs"]
+	path = dygraphs
+	url = https://github.com/rstudio/dygraphs
+	shallow = true
+[submodule "flexdashboard"]
+	path = flexdashboard
+	url = https://github.com/rstudio/flexdashboard
+	shallow = true
+[submodule "graphframes"]
+	path = graphframes
+	url = https://github.com/rstudio/graphframes
+	shallow = true
+[submodule "gt"]
+	path = gt
+	url = https://github.com/rstudio/gt
+	shallow = true
+[submodule "htmltools"]
+	path = htmltools
+	url = https://github.com/rstudio/htmltools
+	shallow = true
+[submodule "httpuv"]
+	path = httpuv
+	url = https://github.com/rstudio/httpuv
+	shallow = true
+[submodule "keras"]
+	path = keras
+	url = https://github.com/rstudio/keras
+	shallow = true
+[submodule "leaflet"]
+	path = leaflet
+	url = https://github.com/rstudio/leaflet
+	shallow = true
+[submodule "leaflet.providers"]
+	path = leaflet.providers
+	url = https://github.com/rstudio/leaflet.providers
+	shallow = true
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+	shallow = true
+[submodule "markdown"]
+	path = markdown
+	url = https://github.com/rstudio/markdown
+	shallow = true
+[submodule "mleap"]
+	path = mleap
+	url = https://github.com/rstudio/mleap
+	shallow = true
+[submodule "packrat"]
+	path = packrat
+	url = https://github.com/rstudio/packrat
+	shallow = true
+[submodule "pagedown"]
+	path = pagedown
+	url = https://github.com/rstudio/pagedown
+	shallow = true
+[submodule "pins"]
+	path = pins
+	url = https://github.com/rstudio/pins
+	shallow = true
+[submodule "plumber"]
+	path = plumber
+	url = https://github.com/rstudio/plumber
+	shallow = true
+[submodule "pool"]
+	path = pool
+	url = https://github.com/rstudio/pool
+	shallow = true
+[submodule "promises"]
+	path = promises
+	url = https://github.com/rstudio/promises
+	shallow = true
+[submodule "r2d3"]
+	path = r2d3
+	url = https://github.com/rstudio/r2d3
+	shallow = true
+[submodule "radix"]
+	path = radix
+	url = https://github.com/rstudio/radix
+	shallow = true
+[submodule "reactlog"]
+	path = reactlog
+	url = https://github.com/rstudio/reactlog
+	shallow = true
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+	shallow = true
+[submodule "reticulate"]
+	path = reticulate
+	url = https://github.com/rstudio/reticulate
+	shallow = true
+[submodule "revealjs"]
+	path = revealjs
+	url = https://github.com/rstudio/revealjs
+	shallow = true
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
+	shallow = true
+[submodule "rsconnect"]
+	path = rsconnect
+	url = https://github.com/rstudio/rsconnect
+	shallow = true
+[submodule "rscontract"]
+	path = rscontract
+	url = https://github.com/rstudio/rscontract
+	shallow = true
+[submodule "rstudioapi"]
+	path = rstudioapi
+	url = https://github.com/rstudio/rstudioapi
+	shallow = true
+[submodule "rticles"]
+	path = rticles
+	url = https://github.com/rstudio/rticles
+	shallow = true
+[submodule "sass"]
+	path = sass
+	url = https://github.com/rstudio/sass
+	shallow = true
+[submodule "scrypt"]
+	path = scrypt
+	url = https://github.com/rstudio/rscrypt
+	shallow = true
+[submodule "shiny"]
+	path = shiny
+	url = https://github.com/rstudio/shiny
+	shallow = true
+[submodule "shinydashboard"]
+	path = shinydashboard
+	url = https://github.com/rstudio/shinydashboard
+	shallow = true
+[submodule "shinyloadtest"]
+	path = shinyloadtest
+	url = https://github.com/rstudio/shinyloadtest
+	shallow = true
+[submodule "shinytest"]
+	path = shinytest
+	url = https://github.com/rstudio/shinytest
+	shallow = true
+[submodule "sortable"]
+	path = sortable
+	url = https://github.com/rstudio/sortable
+	shallow = true
+[submodule "swagger"]
+	path = swagger
+	url = https://github.com/rstudio/swagger
+	shallow = true
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/rstudio/tensorflow
+	shallow = true
+[submodule "tfdatasets"]
+	path = tfdatasets
+	url = https://github.com/rstudio/tfdatasets
+	shallow = true
+[submodule "tfestimators"]
+	path = tfestimators
+	url = https://github.com/rstudio/tfestimators
+	shallow = true
+[submodule "tfhub"]
+	path = tfhub
+	url = https://github.com/rstudio/tfhub
+	shallow = true
+[submodule "tfprobability"]
+	path = tfprobability
+	url = https://github.com/rstudio/tfprobability
+	shallow = true
+[submodule "tfruns"]
+	path = tfruns
+	url = https://github.com/rstudio/tfruns
+	shallow = true
+[submodule "tufte"]
+	path = tufte
+	url = https://github.com/rstudio/tufte
+	shallow = true
+[submodule "webdriver"]
+	path = webdriver
+	url = https://github.com/rstudio/webdriver
+	shallow = true
