@@ -2,7 +2,9 @@
   {
     "package": "tinytex",
     "url": "https://github.com/yihui/tinytex",
-    "via": ["rticles"],
+    "via": [
+      "rticles"
+    ],
     "from": "rticles"
   }
 ]
