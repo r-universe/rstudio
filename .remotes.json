@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tinytex",
+    "url": "https://github.com/yihui/tinytex",
+    "via": ["rticles"],
+    "from": "rticles"
+  }
+]

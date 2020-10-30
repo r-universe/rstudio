@@ -206,3 +206,7 @@
 	path = webdriver
 	url = https://github.com/rstudio/webdriver
 	shallow = true
+[submodule "tinytex"]
+	path = tinytex
+	url = https://github.com/yihui/tinytex
+	shallow = true
