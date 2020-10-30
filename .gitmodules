@@ -206,3 +206,7 @@
 	path = webdriver
 	url = https://github.com/rstudio/webdriver
 	shallow = true
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
+	shallow = true
