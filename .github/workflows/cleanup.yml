@@ -10,10 +10,10 @@ name: Cleanup package server
 
 jobs:
   update:
-    name: Delete removed pacakges
+    name: Delete removed packages
     runs-on: ubuntu-latest
     steps:
-      - name: Sync registry
+      - name: Find and delete packages
         uses: r-universe-org/delete-packages@master
         with:
           monorepo_url: https://github.com/${{ github.repository }}
