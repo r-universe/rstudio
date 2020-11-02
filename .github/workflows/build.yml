@@ -19,6 +19,7 @@ jobs:
       repo_url: ${{ steps.lookup.outputs.repo_url }}
       repo_name: ${{ steps.lookup.outputs.repo_name }}
       repo_commit: ${{ steps.lookup.outputs.repo_commit }}
+      repo_subdir: ${{ steps.lookup.outputs.repo_subdir }}
       maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
     steps:
       - name: Checkout
@@ -65,6 +66,7 @@ jobs:
         with:
           url: ${{ needs.prepare.outputs.repo_url }}
           ref: ${{ needs.prepare.outputs.repo_commit }}
+          subdir: ${{ needs.prepare.outputs.repo_subdir }}
       - name: "Generate pkgdata"
         uses: r-universe-org/generate-pkgdata@master
         if: ${{ always() && steps.build.outputs.SOURCEPKG }}
