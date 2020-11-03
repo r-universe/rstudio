@@ -226,6 +226,10 @@
 	path = jquerylib
 	url = https://github.com/rstudio/jquerylib
 	shallow = true
+[submodule "reticulate"]
+	path = reticulate
+	url = https://github.com/rstudio/reticulate
+	shallow = true
 [submodule "rmarkdown"]
 	path = rmarkdown
 	url = https://github.com/rstudio/rmarkdown
