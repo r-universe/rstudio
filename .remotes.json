@@ -14,6 +14,12 @@
   {
     "package": "cachem",
     "url": "https://github.com/r-lib/cachem",
+    "via": ["bookdown", "bootstraplib", "shiny"],
+    "from": "bookdown"
+  },
+  {
+    "package": "cachem",
+    "url": "https://github.com/r-lib/cachem",
     "via": ["shiny"],
     "from": "shiny"
   },
