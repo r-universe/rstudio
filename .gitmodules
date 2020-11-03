@@ -206,3 +206,43 @@
 	path = webdriver
 	url = https://github.com/rstudio/webdriver
 	shallow = true
+[submodule "bootstraplib"]
+	path = bootstraplib
+	url = https://github.com/rstudio/bootstraplib
+	shallow = true
+[submodule "downlit"]
+	path = downlit
+	url = https://github.com/r-lib/downlit
+	shallow = true
+[submodule "htmltools"]
+	path = htmltools
+	url = https://github.com/rstudio/htmltools
+	shallow = true
+[submodule "htmltools"]
+	path = htmltools
+	url = https://github.com/rstudio/htmltools
+	shallow = true
+[submodule "jquerylib"]
+	path = jquerylib
+	url = https://github.com/rstudio/jquerylib
+	shallow = true
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
+	shallow = true
+[submodule "sass"]
+	path = sass
+	url = https://github.com/rstudio/sass
+	shallow = true
+[submodule "sass"]
+	path = sass
+	url = https://github.com/rstudio/sass
+	shallow = true
+[submodule "shiny"]
+	path = shiny
+	url = https://github.com/rstudio/shiny
+	shallow = true
+[submodule "thematic"]
+	path = thematic
+	url = https://github.com/rstudio/thematic
+	shallow = true

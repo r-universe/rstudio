@@ -1,0 +1,62 @@
+[
+  {
+    "package": "bootstraplib",
+    "url": "https://github.com/rstudio/bootstraplib",
+    "via": ["bookdown"],
+    "from": "bookdown"
+  },
+  {
+    "package": "downlit",
+    "url": "https://github.com/r-lib/downlit",
+    "via": ["bookdown"],
+    "from": "bookdown"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["bookdown", "bootstraplib"],
+    "from": "bookdown"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["bookdown", "bootstraplib", "shiny"],
+    "from": "bookdown"
+  },
+  {
+    "package": "jquerylib",
+    "url": "https://github.com/rstudio/jquerylib",
+    "via": ["bookdown", "bootstraplib"],
+    "from": "bookdown"
+  },
+  {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["bookdown"],
+    "from": "bookdown"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["bookdown", "bootstraplib"],
+    "from": "bookdown"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["bookdown", "bootstraplib", "shiny"],
+    "from": "bookdown"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny",
+    "via": ["bookdown", "bootstraplib"],
+    "from": "bookdown"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic",
+    "via": ["bookdown", "bootstraplib"],
+    "from": "bookdown"
+  }
+]
