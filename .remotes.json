@@ -2,19 +2,19 @@
   {
     "package": "bootstraplib",
     "url": "https://github.com/rstudio/bootstraplib",
-    "via": ["bookdown"],
-    "from": "bookdown"
-  },
-  {
-    "package": "bootstraplib",
-    "url": "https://github.com/rstudio/bootstraplib",
     "via": ["shiny"],
     "from": "shiny"
   },
   {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
+    "via": ["bookdown"],
+    "from": "bookdown"
+  },
+  {
     "package": "cachem",
     "url": "https://github.com/r-lib/cachem",
-    "via": ["bookdown", "bootstraplib", "shiny"],
+    "via": ["bookdown", "bslib", "shiny"],
     "from": "bookdown"
   },
   {
@@ -32,13 +32,13 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
-    "via": ["bookdown", "bootstraplib"],
+    "via": ["bookdown", "bslib"],
     "from": "bookdown"
   },
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
-    "via": ["bookdown", "bootstraplib", "shiny"],
+    "via": ["bookdown", "bslib", "shiny"],
     "from": "bookdown"
   },
   {
@@ -56,7 +56,7 @@
   {
     "package": "jquerylib",
     "url": "https://github.com/rstudio/jquerylib",
-    "via": ["bookdown", "bootstraplib"],
+    "via": ["bookdown", "bslib"],
     "from": "bookdown"
   },
   {
@@ -80,13 +80,13 @@
   {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
-    "via": ["bookdown", "bootstraplib"],
+    "via": ["bookdown", "bslib"],
     "from": "bookdown"
   },
   {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
-    "via": ["bookdown", "bootstraplib", "shiny"],
+    "via": ["bookdown", "bslib", "shiny"],
     "from": "bookdown"
   },
   {
@@ -104,13 +104,13 @@
   {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
-    "via": ["bookdown", "bootstraplib"],
+    "via": ["bookdown", "bslib"],
     "from": "bookdown"
   },
   {
     "package": "thematic",
     "url": "https://github.com/rstudio/thematic",
-    "via": ["bookdown", "bootstraplib"],
+    "via": ["bookdown", "bslib"],
     "from": "bookdown"
   },
   {

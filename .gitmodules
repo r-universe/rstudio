@@ -210,9 +210,9 @@
 	path = bootstraplib
 	url = https://github.com/rstudio/bootstraplib
 	shallow = true
-[submodule "bootstraplib"]
-	path = bootstraplib
-	url = https://github.com/rstudio/bootstraplib
+[submodule "bslib"]
+	path = bslib
+	url = https://github.com/rstudio/bslib
 	shallow = true
 [submodule "cachem"]
 	path = cachem
