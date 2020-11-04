@@ -1,15 +1,15 @@
 [
   {
-    "package": "bootstraplib",
-    "url": "https://github.com/rstudio/bootstraplib",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
     "via": ["bookdown"],
     "from": "bookdown"
+  },
+  {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
+    "via": ["shiny"],
+    "from": "shiny"
   },
   {
     "package": "cachem",
@@ -50,7 +50,7 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
-    "via": ["shiny", "bootstraplib"],
+    "via": ["shiny", "bslib"],
     "from": "shiny"
   },
   {
@@ -62,7 +62,7 @@
   {
     "package": "jquerylib",
     "url": "https://github.com/rstudio/jquerylib",
-    "via": ["shiny", "bootstraplib"],
+    "via": ["shiny", "bslib"],
     "from": "shiny"
   },
   {
@@ -98,7 +98,7 @@
   {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
-    "via": ["shiny", "bootstraplib"],
+    "via": ["shiny", "bslib"],
     "from": "shiny"
   },
   {
@@ -116,7 +116,7 @@
   {
     "package": "thematic",
     "url": "https://github.com/rstudio/thematic",
-    "via": ["shiny", "bootstraplib"],
+    "via": ["shiny", "bslib"],
     "from": "shiny"
   }
 ]
