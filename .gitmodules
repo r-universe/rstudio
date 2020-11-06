@@ -210,14 +210,6 @@
 	path = bslib
 	url = https://github.com/rstudio/bslib
 	shallow = true
-[submodule "bslib"]
-	path = bslib
-	url = https://github.com/rstudio/bslib
-	shallow = true
-[submodule "cachem"]
-	path = cachem
-	url = https://github.com/r-lib/cachem
-	shallow = true
 [submodule "cachem"]
 	path = cachem
 	url = https://github.com/r-lib/cachem
@@ -226,61 +218,9 @@
 	path = downlit
 	url = https://github.com/r-lib/downlit
 	shallow = true
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/rstudio/htmltools
-	shallow = true
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/rstudio/htmltools
-	shallow = true
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/rstudio/htmltools
-	shallow = true
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/rstudio/htmltools
-	shallow = true
 [submodule "jquerylib"]
 	path = jquerylib
 	url = https://github.com/rstudio/jquerylib
-	shallow = true
-[submodule "jquerylib"]
-	path = jquerylib
-	url = https://github.com/rstudio/jquerylib
-	shallow = true
-[submodule "reticulate"]
-	path = reticulate
-	url = https://github.com/rstudio/reticulate
-	shallow = true
-[submodule "rmarkdown"]
-	path = rmarkdown
-	url = https://github.com/rstudio/rmarkdown
-	shallow = true
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	shallow = true
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	shallow = true
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	shallow = true
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	shallow = true
-[submodule "shiny"]
-	path = shiny
-	url = https://github.com/rstudio/shiny
-	shallow = true
-[submodule "thematic"]
-	path = thematic
-	url = https://github.com/rstudio/thematic
 	shallow = true
 [submodule "thematic"]
 	path = thematic
