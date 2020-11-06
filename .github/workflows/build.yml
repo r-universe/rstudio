@@ -36,7 +36,7 @@ jobs:
     needs: prepare
     name: Build package documentation
     runs-on: ubuntu-latest
-    if: ${{ github.event.repository.name == 'ropensci' }}
+    if: github.event.repository.name == 'ropensci'
     steps:
       - name: Build package docs
         uses: r-universe-org/build-docs@master
