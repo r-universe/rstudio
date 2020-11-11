@@ -47,6 +47,7 @@ jobs:
           repo: ${{ needs.prepare.outputs.repo_url }}
           sha: ${{ needs.prepare.outputs.repo_commit }}
           url: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+          universe: ${{ github.event.repository.name }}
           deployed_packages: 'pending'
 
   docs:
@@ -207,4 +208,5 @@ jobs:
           repo: ${{ needs.prepare.outputs.repo_url }}
           sha: ${{ needs.prepare.outputs.repo_commit }}
           url: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+          universe: ${{ github.event.repository.name }}
           deployed_packages: ${{ needs.deploy.outputs.deployed_packages }}
