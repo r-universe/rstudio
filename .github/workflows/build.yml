@@ -161,26 +161,33 @@ jobs:
   deploy:
     name: Deploy to package server
     runs-on: ubuntu-latest
-    needs: [prepare, source, binaries]
+    needs: [source, binaries]
     if: ${{ always() && needs.source.outputs.sourcepkg }}
+    outputs:
+      deployed_packages: ${{ steps.deployment.outputs.deployed_packages }}
     steps:
       - name: Get artifacts for deployment
         uses: actions/download-artifact@v2
-      - name: Upload packages to server
+      - id: deployment
+        name: Upload packages to server
         uses: r-universe-org/deploy-packages@master
         env:
           CRANLIKEURL: https://r-universe.dev/${{ github.event.repository.name }}/packages
           CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
-      - name: Set Github Status
+
+  finalstatus:
+    name: Set Github Status
+    runs-on: ubuntu-latest
+    needs: [prepare, deploy]
+    if: contains(github.event.repository.name, 'ropensci')
+    steps:
+      - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
-        if: contains(github.event.repository.name, 'ropensci')
         env:
           GH_APP_ID: '87942'
           GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
         with:
           repo: ${{ needs.prepare.outputs.repo_url }}
           sha: ${{ needs.prepare.outputs.repo_commit }}
-          state: ${{ job.status }}
           url: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
-          context: r-universe/deploy
-          description: Deploying to R-universe package server
+          deployed_packages: ${{ needs.deploy.outputs.deployed_packages }}
