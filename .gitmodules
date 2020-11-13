@@ -278,6 +278,11 @@
 	url = https://github.com/rstudio/jquerylib
 	shallow = true
 	branch = HEAD
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	shallow = true
+	branch = HEAD
 [submodule "thematic"]
 	path = thematic
 	url = https://github.com/rstudio/thematic
