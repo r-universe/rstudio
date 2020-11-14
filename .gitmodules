@@ -2,289 +2,231 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
-	branch = HEAD
 [submodule "blogdown"]
 	path = blogdown
 	url = https://github.com/rstudio/blogdown
 	shallow = true
-	branch = HEAD
 [submodule "bookdown"]
 	path = bookdown
 	url = https://github.com/rstudio/bookdown
 	shallow = true
-	branch = HEAD
 [submodule "config"]
 	path = config
 	url = https://github.com/rstudio/config
 	shallow = true
-	branch = HEAD
 [submodule "crosstalk"]
 	path = crosstalk
 	url = https://github.com/rstudio/crosstalk
 	shallow = true
-	branch = HEAD
 [submodule "distill"]
 	path = distill
 	url = https://github.com/rstudio/distill
 	shallow = true
-	branch = HEAD
 [submodule "DT"]
 	path = DT
 	url = https://github.com/rstudio/dt
 	shallow = true
-	branch = HEAD
 [submodule "dygraphs"]
 	path = dygraphs
 	url = https://github.com/rstudio/dygraphs
 	shallow = true
-	branch = HEAD
 [submodule "flexdashboard"]
 	path = flexdashboard
 	url = https://github.com/rstudio/flexdashboard
 	shallow = true
-	branch = HEAD
 [submodule "graphframes"]
 	path = graphframes
 	url = https://github.com/rstudio/graphframes
 	shallow = true
-	branch = HEAD
 [submodule "gt"]
 	path = gt
 	url = https://github.com/rstudio/gt
 	shallow = true
-	branch = HEAD
 [submodule "htmltools"]
 	path = htmltools
 	url = https://github.com/rstudio/htmltools
 	shallow = true
-	branch = HEAD
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
 	shallow = true
-	branch = HEAD
 [submodule "keras"]
 	path = keras
 	url = https://github.com/rstudio/keras
 	shallow = true
-	branch = HEAD
 [submodule "leaflet"]
 	path = leaflet
 	url = https://github.com/rstudio/leaflet
 	shallow = true
-	branch = HEAD
 [submodule "leaflet.providers"]
 	path = leaflet.providers
 	url = https://github.com/rstudio/leaflet.providers
 	shallow = true
-	branch = HEAD
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
 	shallow = true
-	branch = HEAD
 [submodule "markdown"]
 	path = markdown
 	url = https://github.com/rstudio/markdown
 	shallow = true
-	branch = HEAD
 [submodule "mleap"]
 	path = mleap
 	url = https://github.com/rstudio/mleap
 	shallow = true
-	branch = HEAD
 [submodule "packrat"]
 	path = packrat
 	url = https://github.com/rstudio/packrat
 	shallow = true
-	branch = HEAD
 [submodule "pagedown"]
 	path = pagedown
 	url = https://github.com/rstudio/pagedown
 	shallow = true
-	branch = HEAD
 [submodule "pins"]
 	path = pins
 	url = https://github.com/rstudio/pins
 	shallow = true
-	branch = HEAD
 [submodule "plumber"]
 	path = plumber
 	url = https://github.com/rstudio/plumber
 	shallow = true
-	branch = HEAD
 [submodule "pool"]
 	path = pool
 	url = https://github.com/rstudio/pool
 	shallow = true
-	branch = HEAD
 [submodule "promises"]
 	path = promises
 	url = https://github.com/rstudio/promises
 	shallow = true
-	branch = HEAD
 [submodule "r2d3"]
 	path = r2d3
 	url = https://github.com/rstudio/r2d3
 	shallow = true
-	branch = HEAD
 [submodule "radix"]
 	path = radix
 	url = https://github.com/rstudio/radix
 	shallow = true
-	branch = HEAD
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/rstudio/reactlog
 	shallow = true
-	branch = HEAD
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
 	shallow = true
-	branch = HEAD
 [submodule "reticulate"]
 	path = reticulate
 	url = https://github.com/rstudio/reticulate
 	shallow = true
-	branch = HEAD
 [submodule "revealjs"]
 	path = revealjs
 	url = https://github.com/rstudio/revealjs
 	shallow = true
-	branch = HEAD
 [submodule "rmarkdown"]
 	path = rmarkdown
 	url = https://github.com/rstudio/rmarkdown
 	shallow = true
-	branch = HEAD
 [submodule "rsconnect"]
 	path = rsconnect
 	url = https://github.com/rstudio/rsconnect
 	shallow = true
-	branch = HEAD
 [submodule "rscontract"]
 	path = rscontract
 	url = https://github.com/rstudio/rscontract
 	shallow = true
-	branch = HEAD
 [submodule "rstudioapi"]
 	path = rstudioapi
 	url = https://github.com/rstudio/rstudioapi
 	shallow = true
-	branch = HEAD
 [submodule "rticles"]
 	path = rticles
 	url = https://github.com/rstudio/rticles
 	shallow = true
-	branch = HEAD
 [submodule "sass"]
 	path = sass
 	url = https://github.com/rstudio/sass
 	shallow = true
-	branch = HEAD
 [submodule "scrypt"]
 	path = scrypt
 	url = https://github.com/rstudio/rscrypt
 	shallow = true
-	branch = HEAD
 [submodule "shiny"]
 	path = shiny
 	url = https://github.com/rstudio/shiny
 	shallow = true
-	branch = HEAD
 [submodule "shinydashboard"]
 	path = shinydashboard
 	url = https://github.com/rstudio/shinydashboard
 	shallow = true
-	branch = HEAD
 [submodule "shinyloadtest"]
 	path = shinyloadtest
 	url = https://github.com/rstudio/shinyloadtest
 	shallow = true
-	branch = HEAD
 [submodule "shinytest"]
 	path = shinytest
 	url = https://github.com/rstudio/shinytest
 	shallow = true
-	branch = HEAD
 [submodule "sortable"]
 	path = sortable
 	url = https://github.com/rstudio/sortable
 	shallow = true
-	branch = HEAD
 [submodule "swagger"]
 	path = swagger
 	url = https://github.com/rstudio/swagger
 	shallow = true
-	branch = HEAD
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/rstudio/tensorflow
 	shallow = true
-	branch = HEAD
 [submodule "tfdatasets"]
 	path = tfdatasets
 	url = https://github.com/rstudio/tfdatasets
 	shallow = true
-	branch = HEAD
 [submodule "tfestimators"]
 	path = tfestimators
 	url = https://github.com/rstudio/tfestimators
 	shallow = true
-	branch = HEAD
 [submodule "tfhub"]
 	path = tfhub
 	url = https://github.com/rstudio/tfhub
 	shallow = true
-	branch = HEAD
 [submodule "tfprobability"]
 	path = tfprobability
 	url = https://github.com/rstudio/tfprobability
 	shallow = true
-	branch = HEAD
 [submodule "tfruns"]
 	path = tfruns
 	url = https://github.com/rstudio/tfruns
 	shallow = true
-	branch = HEAD
 [submodule "tufte"]
 	path = tufte
 	url = https://github.com/rstudio/tufte
 	shallow = true
-	branch = HEAD
 [submodule "webdriver"]
 	path = webdriver
 	url = https://github.com/rstudio/webdriver
 	shallow = true
-	branch = HEAD
 [submodule "bslib"]
 	path = bslib
 	url = https://github.com/rstudio/bslib
 	shallow = true
-	branch = HEAD
 [submodule "cachem"]
 	path = cachem
 	url = https://github.com/r-lib/cachem
 	shallow = true
-	branch = HEAD
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit
 	shallow = true
-	branch = HEAD
 [submodule "jquerylib"]
 	path = jquerylib
 	url = https://github.com/rstudio/jquerylib
 	shallow = true
-	branch = HEAD
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	shallow = true
-	branch = HEAD
 [submodule "thematic"]
 	path = thematic
 	url = https://github.com/rstudio/thematic
 	shallow = true
-	branch = HEAD
