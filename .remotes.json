@@ -44,6 +44,12 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
+    "via": ["learnr"],
+    "from": "learnr"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
     "via": ["shiny"],
     "from": "shiny"
   },
@@ -118,6 +124,12 @@
     "url": "https://github.com/rstudio/shiny",
     "via": ["bookdown", "bslib"],
     "from": "bookdown"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest",
+    "via": ["learnr"],
+    "from": "learnr"
   },
   {
     "package": "thematic",
