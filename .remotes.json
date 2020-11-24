@@ -74,6 +74,12 @@
   {
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
+    "via": ["bookdown", "bslib", "shiny"],
+    "from": "bookdown"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
     "via": ["shiny"],
     "from": "shiny"
   },
@@ -82,6 +88,12 @@
     "url": "https://github.com/rstudio/reticulate",
     "via": ["keras"],
     "from": "keras"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["bookdown", "bslib", "shiny"],
+    "from": "bookdown"
   },
   {
     "package": "rlang",
