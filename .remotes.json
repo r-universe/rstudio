@@ -144,6 +144,12 @@
     "from": "learnr"
   },
   {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest",
+    "via": ["shiny"],
+    "from": "shiny"
+  },
+  {
     "package": "thematic",
     "url": "https://github.com/rstudio/thematic",
     "via": ["bookdown", "bslib"],
