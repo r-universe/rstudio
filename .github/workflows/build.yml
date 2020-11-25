@@ -18,6 +18,7 @@ jobs:
     outputs:
       repo_url: ${{ steps.lookup.outputs.repo_url }}
       repo_name: ${{ steps.lookup.outputs.repo_name }}
+      repo_owner: ${{ steps.lookup.outputs.repo_owner }}
       repo_commit: ${{ steps.lookup.outputs.repo_commit }}
       repo_subdir: ${{ steps.lookup.outputs.repo_subdir }}
       maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
@@ -36,7 +37,7 @@ jobs:
     name: Set Status to Pending
     runs-on: ubuntu-20.04
     needs: [prepare]
-    if: startsWith(needs.prepare.outputs.repo_url, format('https://github.com/{1}/', github.event.repository.name))
+    if: needs.prepare.outputs.repo_owner == github.event.repository.name
     steps:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
