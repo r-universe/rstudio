@@ -198,6 +198,7 @@ jobs:
     name: Set Github Status
     runs-on: ubuntu-20.04
     needs: [prepare, deploy, pendingstatus]
+    if: always() && needs.prepare.outputs.repo_owner == github.event.repository.name
     steps:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
