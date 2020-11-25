@@ -36,7 +36,7 @@ jobs:
     name: Set Status to Pending
     runs-on: ubuntu-20.04
     needs: [prepare]
-    if: contains(needs.prepare.outputs.repo_url, 'ropensci')
+    if: startsWith(needs.prepare.outputs.repo_url, github.event.repository.name)
     steps:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
@@ -196,8 +196,8 @@ jobs:
   finalstatus:
     name: Set Github Status
     runs-on: ubuntu-20.04
-    needs: [prepare, deploy]
-    if: always() && contains(needs.prepare.outputs.repo_url, 'ropensci')
+    needs: [prepare, deploy, pendingstatus]
+    if: always() && startsWith(needs.prepare.outputs.repo_url, github.event.repository.name)
     steps:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
