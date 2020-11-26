@@ -22,6 +22,7 @@ jobs:
       repo_owner: ${{ steps.lookup.outputs.repo_owner }}
       repo_commit: ${{ steps.lookup.outputs.repo_commit }}
       repo_subdir: ${{ steps.lookup.outputs.repo_subdir }}
+      universe_app: ${{ steps.lookup.outputs.universe_app }}
       maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
     steps:
       - name: Checkout
@@ -38,7 +39,7 @@ jobs:
     name: Set Status to Pending
     runs-on: ubuntu-20.04
     needs: [prepare]
-    if: needs.prepare.outputs.repo_owner == github.event.repository.name
+    if: needs.prepare.outputs.universe_app
     steps:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
@@ -198,7 +199,7 @@ jobs:
     name: Set Github Status
     runs-on: ubuntu-20.04
     needs: [prepare, deploy, pendingstatus]
-    if: always() && needs.prepare.outputs.repo_owner == github.event.repository.name
+    if: always() && needs.prepare.outputs.universe_app
     steps:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
