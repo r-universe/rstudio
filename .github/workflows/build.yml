@@ -9,6 +9,7 @@ on:
 name: Build package from commit
 env:
   MY_UNIVERSE: https://r-universe.dev/${{ github.event.repository.name }}
+  GH_APP_ID: '87942'
 
 jobs:
   prepare:
@@ -42,7 +43,6 @@ jobs:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
         env:
-          GH_APP_ID: '87942'
           GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
         with:
           repo: ${{ needs.prepare.outputs.repo_url }}
@@ -203,7 +203,6 @@ jobs:
       - name: Set upstream commit status
         uses: r-universe-org/commit-status@master
         env:
-          GH_APP_ID: '87942'
           GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
         with:
           repo: ${{ needs.prepare.outputs.repo_url }}
