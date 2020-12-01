@@ -140,6 +140,12 @@
   {
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
+    "via": ["bookdown", "bslib", "shiny"],
+    "from": "bookdown"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
     "from": "learnr"
   },
