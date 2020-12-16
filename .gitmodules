@@ -75,6 +75,10 @@
 	path = mleap
 	url = https://github.com/rstudio/mleap
 	shallow = true
+[submodule "nomnoml"]
+	path = nomnoml
+	url = https://github.com/rstudio/nomnoml
+	shallow = true
 [submodule "packrat"]
 	path = packrat
 	url = https://github.com/rstudio/packrat
