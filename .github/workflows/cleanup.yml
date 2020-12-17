@@ -17,6 +17,6 @@ jobs:
         uses: r-universe-org/delete-packages@master
         with:
           monorepo_url: https://github.com/${{ github.repository }}
-          cranlike_url: https://r-universe.dev/${{ github.event.repository.name }}/packages
+          cranlike_url: https://${{ github.event.repository.name }}.r-universe.dev/packages
         env:
           CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
