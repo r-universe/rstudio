@@ -160,5 +160,11 @@
     "url": "https://github.com/rstudio/thematic",
     "via": ["shiny", "bslib"],
     "from": "shiny"
+  },
+  {
+    "package": "webdriver",
+    "url": "https://github.com/rstudio/webdriver",
+    "via": ["shinytest"],
+    "from": "shinytest"
   }
 ]
