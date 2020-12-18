@@ -96,12 +96,6 @@
     "from": "bookdown"
   },
   {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["bookdown"],
