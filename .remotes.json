@@ -66,12 +66,6 @@
     "from": "bookdown"
   },
   {
-    "package": "jquerylib",
-    "url": "https://github.com/rstudio/jquerylib",
-    "via": ["shiny", "bslib"],
-    "from": "shiny"
-  },
-  {
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
     "via": ["bookdown", "bslib", "shiny"],
@@ -81,6 +75,12 @@
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
     "via": ["shiny"],
+    "from": "shiny"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
+    "via": ["shiny", "bslib"],
     "from": "shiny"
   },
   {
@@ -159,6 +159,12 @@
     "package": "thematic",
     "url": "https://github.com/rstudio/thematic",
     "via": ["shiny", "bslib"],
+    "from": "shiny"
+  },
+  {
+    "package": "webdriver",
+    "url": "https://github.com/rstudio/webdriver",
+    "via": ["shiny", "shinytest"],
     "from": "shiny"
   },
   {
