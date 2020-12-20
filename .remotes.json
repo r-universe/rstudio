@@ -102,6 +102,12 @@
     "from": "bookdown"
   },
   {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["distill"],
+    "from": "distill"
+  },
+  {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
     "via": ["bookdown", "bslib"],
