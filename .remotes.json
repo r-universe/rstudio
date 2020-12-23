@@ -12,6 +12,12 @@
     "from": "shiny"
   },
   {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
+    "via": ["shinytest", "shiny"],
+    "from": "shinytest"
+  },
+  {
     "package": "cachem",
     "url": "https://github.com/r-lib/cachem",
     "via": ["bookdown", "bslib", "shiny"],
@@ -22,6 +28,12 @@
     "url": "https://github.com/r-lib/cachem",
     "via": ["shiny"],
     "from": "shiny"
+  },
+  {
+    "package": "cachem",
+    "url": "https://github.com/r-lib/cachem",
+    "via": ["shinytest", "shiny"],
+    "from": "shinytest"
   },
   {
     "package": "downlit",
@@ -60,6 +72,18 @@
     "from": "shiny"
   },
   {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["shinytest", "shiny"],
+    "from": "shinytest"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["shinytest", "shiny", "bslib"],
+    "from": "shinytest"
+  },
+  {
     "package": "jquerylib",
     "url": "https://github.com/rstudio/jquerylib",
     "via": ["bookdown", "bslib"],
@@ -82,6 +106,18 @@
     "url": "https://github.com/rstudio/promises",
     "via": ["shiny", "bslib"],
     "from": "shiny"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
+    "via": ["shinytest", "shiny"],
+    "from": "shinytest"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
+    "via": ["shinytest", "shiny", "bslib"],
+    "from": "shinytest"
   },
   {
     "package": "reticulate",
@@ -132,10 +168,28 @@
     "from": "shiny"
   },
   {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["shinytest", "shiny"],
+    "from": "shinytest"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["shinytest", "shiny", "bslib"],
+    "from": "shinytest"
+  },
+  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bookdown", "bslib"],
     "from": "bookdown"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny",
+    "via": ["shinytest"],
+    "from": "shinytest"
   },
   {
     "package": "shinytest",
@@ -168,6 +222,12 @@
     "from": "shiny"
   },
   {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic",
+    "via": ["shinytest", "shiny", "bslib"],
+    "from": "shinytest"
+  },
+  {
     "package": "webdriver",
     "url": "https://github.com/rstudio/webdriver",
     "via": ["shiny"],
@@ -183,6 +243,12 @@
     "package": "webdriver",
     "url": "https://github.com/rstudio/webdriver",
     "via": ["shinytest"],
+    "from": "shinytest"
+  },
+  {
+    "package": "webdriver",
+    "url": "https://github.com/rstudio/webdriver",
+    "via": ["shinytest", "shiny"],
     "from": "shinytest"
   }
 ]
