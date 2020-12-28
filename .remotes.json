@@ -230,12 +230,6 @@
   {
     "package": "webdriver",
     "url": "https://github.com/rstudio/webdriver",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
-    "package": "webdriver",
-    "url": "https://github.com/rstudio/webdriver",
     "via": ["shiny", "shinytest"],
     "from": "shiny"
   },
