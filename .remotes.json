@@ -8,6 +8,12 @@
   {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
+    "via": ["learnr", "shinytest", "shiny"],
+    "from": "learnr"
+  },
+  {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
     "via": ["shiny"],
     "from": "shiny"
   },
@@ -22,6 +28,12 @@
     "url": "https://github.com/r-lib/cachem",
     "via": ["bookdown", "bslib", "shiny"],
     "from": "bookdown"
+  },
+  {
+    "package": "cachem",
+    "url": "https://github.com/r-lib/cachem",
+    "via": ["learnr", "shinytest", "shiny"],
+    "from": "learnr"
   },
   {
     "package": "cachem",
@@ -62,6 +74,18 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
+    "via": ["learnr", "shinytest", "shiny"],
+    "from": "learnr"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["learnr", "shinytest", "shiny", "bslib"],
+    "from": "learnr"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
     "via": ["shiny"],
     "from": "shiny"
   },
@@ -94,6 +118,18 @@
     "url": "https://github.com/rstudio/promises",
     "via": ["bookdown", "bslib", "shiny"],
     "from": "bookdown"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
+    "via": ["learnr", "shinytest", "shiny"],
+    "from": "learnr"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
+    "via": ["learnr", "shinytest", "shiny", "bslib"],
+    "from": "learnr"
   },
   {
     "package": "promises",
@@ -158,6 +194,18 @@
   {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
+    "via": ["learnr", "shinytest", "shiny"],
+    "from": "learnr"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["learnr", "shinytest", "shiny", "bslib"],
+    "from": "learnr"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
     "via": ["shiny"],
     "from": "shiny"
   },
@@ -184,6 +232,12 @@
     "url": "https://github.com/rstudio/shiny",
     "via": ["bookdown", "bslib"],
     "from": "bookdown"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny",
+    "via": ["learnr", "shinytest"],
+    "from": "learnr"
   },
   {
     "package": "shiny",
@@ -218,6 +272,12 @@
   {
     "package": "thematic",
     "url": "https://github.com/rstudio/thematic",
+    "via": ["learnr", "shinytest", "shiny", "bslib"],
+    "from": "learnr"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic",
     "via": ["shiny", "bslib"],
     "from": "shiny"
   },
@@ -226,6 +286,12 @@
     "url": "https://github.com/rstudio/thematic",
     "via": ["shinytest", "shiny", "bslib"],
     "from": "shinytest"
+  },
+  {
+    "package": "webdriver",
+    "url": "https://github.com/rstudio/webdriver",
+    "via": ["learnr", "shinytest"],
+    "from": "learnr"
   },
   {
     "package": "webdriver",
