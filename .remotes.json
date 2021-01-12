@@ -108,8 +108,8 @@
     "from": "shinytest"
   },
   {
-    "package": "jquerylib",
-    "url": "https://github.com/rstudio/jquerylib",
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
     "via": ["bookdown", "bslib"],
     "from": "bookdown"
   },
@@ -160,12 +160,6 @@
     "url": "https://github.com/rstudio/reticulate",
     "via": ["keras"],
     "from": "keras"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["bookdown", "bslib", "shiny"],
-    "from": "bookdown"
   },
   {
     "package": "rmarkdown",
@@ -286,6 +280,12 @@
     "url": "https://github.com/rstudio/thematic",
     "via": ["shinytest", "shiny", "bslib"],
     "from": "shinytest"
+  },
+  {
+    "package": "webdriver",
+    "url": "https://github.com/rstudio/webdriver",
+    "via": ["bookdown", "bslib", "shiny", "shinytest"],
+    "from": "bookdown"
   },
   {
     "package": "webdriver",

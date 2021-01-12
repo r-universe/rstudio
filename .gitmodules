@@ -223,14 +223,6 @@
 	path = downlit
 	url = https://github.com/r-lib/downlit
 	shallow = true
-[submodule "jquerylib"]
-	path = jquerylib
-	url = https://github.com/rstudio/jquerylib
-	shallow = true
-[submodule "rlang"]
-	path = rlang
-	url = https://github.com/r-lib/rlang
-	shallow = true
 [submodule "thematic"]
 	path = thematic
 	url = https://github.com/rstudio/thematic
