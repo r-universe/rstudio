@@ -226,11 +226,5 @@
     "url": "https://github.com/rstudio/webdriver",
     "via": ["learnr", "shinytest"],
     "from": "learnr"
-  },
-  {
-    "package": "webdriver",
-    "url": "https://github.com/rstudio/webdriver",
-    "via": ["shiny", "shinytest"],
-    "from": "shiny"
   }
 ]
