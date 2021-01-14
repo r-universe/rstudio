@@ -92,12 +92,6 @@
   {
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
-    "via": ["bookdown", "bslib", "shiny"],
-    "from": "bookdown"
-  },
-  {
-    "package": "promises",
-    "url": "https://github.com/rstudio/promises",
     "via": ["learnr", "shinytest", "shiny"],
     "from": "learnr"
   },
@@ -214,12 +208,6 @@
     "url": "https://github.com/rstudio/thematic",
     "via": ["shiny", "bslib"],
     "from": "shiny"
-  },
-  {
-    "package": "webdriver",
-    "url": "https://github.com/rstudio/webdriver",
-    "via": ["bookdown", "bslib", "shiny", "shinytest"],
-    "from": "bookdown"
   },
   {
     "package": "webdriver",
