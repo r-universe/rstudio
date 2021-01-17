@@ -203,6 +203,10 @@
 	path = tfruns
 	url = https://github.com/rstudio/tfruns
 	shallow = true
+[submodule "thematic"]
+	path = thematic
+	url = https://github.com/rstudio/thematic
+	shallow = true
 [submodule "tufte"]
 	path = tufte
 	url = https://github.com/rstudio/tufte
@@ -222,8 +226,4 @@
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit
-	shallow = true
-[submodule "thematic"]
-	path = thematic
-	url = https://github.com/rstudio/thematic
 	shallow = true
