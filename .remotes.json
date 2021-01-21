@@ -220,5 +220,11 @@
     "url": "https://github.com/rstudio/thematic",
     "via": ["shiny", "bslib"],
     "from": "shiny"
+  },
+  {
+    "package": "tinytex",
+    "url": "https://github.com/yihui/tinytex",
+    "via": ["rticles"],
+    "from": "rticles"
   }
 ]
