@@ -18,12 +18,6 @@
     "from": "rmarkdown"
   },
   {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
     "package": "cachem",
     "url": "https://github.com/r-lib/cachem",
     "via": ["bookdown", "bslib", "shiny"],
@@ -40,12 +34,6 @@
     "url": "https://github.com/r-lib/cachem",
     "via": ["rmarkdown", "shiny"],
     "from": "rmarkdown"
-  },
-  {
-    "package": "cachem",
-    "url": "https://github.com/r-lib/cachem",
-    "via": ["shiny"],
-    "from": "shiny"
   },
   {
     "package": "downlit",
@@ -84,28 +72,10 @@
     "from": "rmarkdown"
   },
   {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["shiny", "bslib"],
-    "from": "shiny"
-  },
-  {
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
     "via": ["bookdown", "bslib"],
     "from": "bookdown"
-  },
-  {
-    "package": "promises",
-    "url": "https://github.com/rstudio/promises",
-    "via": ["shiny", "bslib"],
-    "from": "shiny"
   },
   {
     "package": "reticulate",
@@ -142,18 +112,6 @@
     "url": "https://github.com/rstudio/sass",
     "via": ["rmarkdown", "shiny"],
     "from": "rmarkdown"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["shiny", "bslib"],
-    "from": "shiny"
   },
   {
     "package": "shiny",
@@ -198,22 +156,10 @@
     "from": "rmarkdown"
   },
   {
-    "package": "shinytest",
-    "url": "https://github.com/rstudio/shinytest",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
     "package": "thematic",
     "url": "https://github.com/rstudio/thematic",
     "via": ["bookdown", "bslib"],
     "from": "bookdown"
-  },
-  {
-    "package": "thematic",
-    "url": "https://github.com/rstudio/thematic",
-    "via": ["shiny", "bslib"],
-    "from": "shiny"
   },
   {
     "package": "tinytex",
