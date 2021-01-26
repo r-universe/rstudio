@@ -12,28 +12,10 @@
     "from": "rmarkdown"
   },
   {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
-    "via": ["rmarkdown", "shiny"],
-    "from": "rmarkdown"
-  },
-  {
     "package": "cachem",
     "url": "https://github.com/r-lib/cachem",
     "via": ["bookdown", "bslib", "shiny"],
     "from": "bookdown"
-  },
-  {
-    "package": "cachem",
-    "url": "https://github.com/r-lib/cachem",
-    "via": ["rmarkdown", "bslib", "shiny"],
-    "from": "rmarkdown"
-  },
-  {
-    "package": "cachem",
-    "url": "https://github.com/r-lib/cachem",
-    "via": ["rmarkdown", "shiny"],
-    "from": "rmarkdown"
   },
   {
     "package": "downlit",
@@ -58,18 +40,6 @@
     "url": "https://github.com/rstudio/htmltools",
     "via": ["learnr"],
     "from": "learnr"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["rmarkdown", "bslib", "shiny"],
-    "from": "rmarkdown"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["rmarkdown", "shiny"],
-    "from": "rmarkdown"
   },
   {
     "package": "promises",
@@ -102,28 +72,10 @@
     "from": "bookdown"
   },
   {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["rmarkdown", "bslib", "shiny"],
-    "from": "rmarkdown"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["rmarkdown", "shiny"],
-    "from": "rmarkdown"
-  },
-  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bookdown", "bslib"],
     "from": "bookdown"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["rmarkdown", "bslib"],
-    "from": "rmarkdown"
   },
   {
     "package": "shiny",
@@ -142,18 +94,6 @@
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
     "from": "learnr"
-  },
-  {
-    "package": "shinytest",
-    "url": "https://github.com/rstudio/shinytest",
-    "via": ["rmarkdown", "bslib", "shiny"],
-    "from": "rmarkdown"
-  },
-  {
-    "package": "shinytest",
-    "url": "https://github.com/rstudio/shinytest",
-    "via": ["rmarkdown", "shiny"],
-    "from": "rmarkdown"
   },
   {
     "package": "thematic",
