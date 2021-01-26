@@ -11,6 +11,10 @@
 	path = bookdown
 	url = https://github.com/rstudio/bookdown
 	shallow = true
+[submodule "bslib"]
+	path = bslib
+	url = https://github.com/rstudio/bslib
+	shallow = true
 [submodule "config"]
 	path = config
 	url = https://github.com/rstudio/config
@@ -214,10 +218,6 @@
 [submodule "webdriver"]
 	path = webdriver
 	url = https://github.com/rstudio/webdriver
-	shallow = true
-[submodule "bslib"]
-	path = bslib
-	url = https://github.com/rstudio/bslib
 	shallow = true
 [submodule "cachem"]
 	path = cachem
