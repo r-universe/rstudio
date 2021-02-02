@@ -219,10 +219,6 @@
 	path = webdriver
 	url = https://github.com/rstudio/webdriver
 	shallow = true
-[submodule "cachem"]
-	path = cachem
-	url = https://github.com/r-lib/cachem
-	shallow = true
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit

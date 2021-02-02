@@ -8,14 +8,14 @@
   {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
-    "via": ["rmarkdown"],
-    "from": "rmarkdown"
+    "via": ["bookdown", "rmarkdown"],
+    "from": "bookdown"
   },
   {
-    "package": "cachem",
-    "url": "https://github.com/r-lib/cachem",
-    "via": ["bookdown", "bslib", "shiny"],
-    "from": "bookdown"
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
+    "via": ["rmarkdown"],
+    "from": "rmarkdown"
   },
   {
     "package": "downlit",
@@ -26,26 +26,8 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
-    "via": ["bookdown", "bslib"],
-    "from": "bookdown"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["bookdown", "bslib", "shiny"],
-    "from": "bookdown"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
     "via": ["learnr"],
     "from": "learnr"
-  },
-  {
-    "package": "promises",
-    "url": "https://github.com/rstudio/promises",
-    "via": ["bookdown", "bslib"],
-    "from": "bookdown"
   },
   {
     "package": "reticulate",
@@ -60,21 +42,9 @@
     "from": "bookdown"
   },
   {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["bookdown", "bslib"],
-    "from": "bookdown"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["bookdown", "bslib", "shiny"],
-    "from": "bookdown"
-  },
-  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
-    "via": ["bookdown", "bslib"],
+    "via": ["bookdown", "rmarkdown"],
     "from": "bookdown"
   },
   {
@@ -86,20 +56,8 @@
   {
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
-    "via": ["bookdown", "bslib", "shiny"],
-    "from": "bookdown"
-  },
-  {
-    "package": "shinytest",
-    "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
     "from": "learnr"
-  },
-  {
-    "package": "thematic",
-    "url": "https://github.com/rstudio/thematic",
-    "via": ["bookdown", "bslib"],
-    "from": "bookdown"
   },
   {
     "package": "tinytex",
