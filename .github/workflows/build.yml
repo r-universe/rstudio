@@ -124,6 +124,18 @@ jobs:
         os: [ windows, macos ]
         r: [ 'release', 'oldrel']
     steps:
+      - name: Cache tools
+        if: runner.os == 'macos'
+        id: cache-tools
+        uses: actions/cache@v2
+        with:
+          path: |
+            /opt/X11
+            /usr/local/gfortran
+          key: ${{ runner.os }}
+      - name: Install build tools
+        if: runner.os == 'macos' && steps.cache-primes.outputs.cache-hit != 'true'
+        uses: r-universe-org/install-tools@master
       - name: Install R
         uses: r-lib/actions/setup-r@master
         with:
