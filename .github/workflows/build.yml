@@ -126,6 +126,7 @@ jobs:
     steps:
       - name: Install R
         uses: r-lib/actions/setup-r@master
+        id: install-r
         with:
           r-version: ${{ matrix.r }}
         env:
@@ -136,10 +137,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: |
-            /opt/X11
-            /usr/local/gfortran
-          key: ${{ runner.os }}-${{ matrix.r }}-1
-          restore-keys: ${{ runner.os }}-
+            /opt/X11/lib
+          key: ${{ runner.os }}-${{ steps.install-r.outputs.installed-r-version }}-1
       - name: Install build tools
         if: runner.os == 'macos' && steps.cache-primes.outputs.cache-hit != 'true'
         uses: r-universe-org/install-tools@master
