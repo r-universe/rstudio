@@ -124,6 +124,16 @@ jobs:
         os: [ windows, macos ]
         r: [ 'release', 'oldrel']
     steps:
+      - name: Before cache
+        if: runner.os == 'macos'
+        uses: r-universe-org/macos-actions/before-cache@master
+      - name: Cache tools
+        if: runner.os == 'macos'
+        uses: actions/cache@v2
+        with:
+          path: |
+            /opt/X11
+          key: ${{ runner.os }}-${{ matrix.r }}-2
       - name: Install R
         uses: r-lib/actions/setup-r@master
         id: install-r
@@ -131,20 +141,9 @@ jobs:
           r-version: ${{ matrix.r }}
         env:
           NOT_CRAN: false
-      - name: Cache tools
+      - name: Prepare macOS system
         if: runner.os == 'macos'
-        id: cache-tools
-        uses: actions/cache@v2
-        with:
-          path: |
-            /opt/X11/lib
-          key: ${{ runner.os }}-${{ steps.install-r.outputs.installed-r-version }}-1
-      - name: Install build tools
-        if: runner.os == 'macos' && steps.cache-primes.outputs.cache-hit != 'true'
-        uses: r-universe-org/install-tools@master
-      - name: Uninstall homebrew
-        uses: r-universe-org/uninstall-homebrew@master
-        if: runner.os == 'macos'
+        uses: r-universe-org/macos-actions/prepare-macos@master
       - name: Download source package
         uses: actions/download-artifact@v2
         with:
