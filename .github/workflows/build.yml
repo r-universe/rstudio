@@ -102,6 +102,7 @@ jobs:
           COMMIT_TIMESTAMP: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
           SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
+          VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
           FILE: ${{ steps.build.outputs.SOURCEPKG }}
           TARGET: source
       - name: "Save source package"
