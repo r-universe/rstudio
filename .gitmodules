@@ -3,6 +3,10 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blastula"]
+	path = blastula
+	url = https://github.com/rstudio/blastula
+	shallow = true
 [submodule "blogdown"]
 	path = blogdown
 	url = https://github.com/rstudio/blogdown
@@ -18,6 +22,10 @@
 [submodule "config"]
 	path = config
 	url = https://github.com/rstudio/config
+	shallow = true
+[submodule "connections"]
+	path = connections
+	url = https://github.com/rstudio/connections
 	shallow = true
 [submodule "crosstalk"]
 	path = crosstalk
