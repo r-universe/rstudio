@@ -64,5 +64,11 @@
     "url": "https://github.com/yihui/tinytex",
     "via": ["rticles"],
     "from": "rticles"
+  },
+  {
+    "package": "xfun",
+    "url": "https://github.com/yihui/xfun",
+    "via": ["blogdown"],
+    "from": "blogdown"
   }
 ]
