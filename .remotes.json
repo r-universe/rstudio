@@ -54,12 +54,6 @@
     "from": "bookdown"
   },
   {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
-    "via": ["bslib"],
-    "from": "bslib"
-  },
-  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bookdown", "bslib", "rmarkdown"],
@@ -70,12 +64,6 @@
     "url": "https://github.com/rstudio/shiny",
     "via": ["bookdown", "rmarkdown"],
     "from": "bookdown"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["bslib", "rmarkdown"],
-    "from": "bslib"
   },
   {
     "package": "shinytest",
