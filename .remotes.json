@@ -12,12 +12,6 @@
     "from": "bookdown"
   },
   {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
-    "via": ["rmarkdown"],
-    "from": "rmarkdown"
-  },
-  {
     "package": "downlit",
     "url": "https://github.com/r-lib/downlit",
     "via": ["bookdown"],
@@ -82,12 +76,6 @@
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib", "rmarkdown"],
     "from": "bslib"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["rmarkdown"],
-    "from": "rmarkdown"
   },
   {
     "package": "shinytest",
