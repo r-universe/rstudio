@@ -12,6 +12,12 @@
     "from": "bookdown"
   },
   {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
+    "via": ["flexdashboard"],
+    "from": "flexdashboard"
+  },
+  {
     "package": "downlit",
     "url": "https://github.com/r-lib/downlit",
     "via": ["bookdown"],
@@ -52,6 +58,12 @@
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["bookdown"],
     "from": "bookdown"
+  },
+  {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["flexdashboard"],
+    "from": "flexdashboard"
   },
   {
     "package": "shiny",
