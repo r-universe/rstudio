@@ -8,12 +8,6 @@
   {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
-    "via": ["bookdown", "rmarkdown"],
-    "from": "bookdown"
-  },
-  {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
     "via": ["flexdashboard"],
     "from": "flexdashboard"
   },
@@ -50,12 +44,6 @@
   {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
-    "via": ["bookdown", "bslib"],
-    "from": "bookdown"
-  },
-  {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
     "via": ["bookdown"],
     "from": "bookdown"
   },
@@ -64,18 +52,6 @@
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["flexdashboard"],
     "from": "flexdashboard"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["bookdown", "bslib", "rmarkdown"],
-    "from": "bookdown"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["bookdown", "rmarkdown"],
-    "from": "bookdown"
   },
   {
     "package": "shinytest",
