@@ -47,6 +47,10 @@
 	path = flexdashboard
 	url = https://github.com/rstudio/flexdashboard
 	shallow = true
+[submodule "fontawesome"]
+	path = fontawesome
+	url = https://github.com/rstudio/fontawesome
+	shallow = true
 [submodule "graphframes"]
 	path = graphframes
 	url = https://github.com/rstudio/graphframes
