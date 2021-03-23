@@ -24,22 +24,10 @@
     "from": "learnr"
   },
   {
-    "package": "keras",
-    "url": "https://github.com/rstudio/keras",
-    "via": ["tensorflow"],
-    "from": "tensorflow"
-  },
-  {
     "package": "reticulate",
     "url": "https://github.com/rstudio/reticulate",
     "via": ["keras"],
     "from": "keras"
-  },
-  {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["tensorflow", "keras"],
-    "from": "tensorflow"
   },
   {
     "package": "rmarkdown",
