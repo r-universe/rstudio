@@ -24,12 +24,6 @@
     "from": "learnr"
   },
   {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["keras"],
-    "from": "keras"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["bookdown"],
