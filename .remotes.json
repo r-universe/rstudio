@@ -50,6 +50,12 @@
   {
     "package": "tinytex",
     "url": "https://github.com/yihui/tinytex",
+    "via": ["bookdown", "rmarkdown"],
+    "from": "bookdown"
+  },
+  {
+    "package": "tinytex",
+    "url": "https://github.com/yihui/tinytex",
     "via": ["rmarkdown"],
     "from": "rmarkdown"
   }
