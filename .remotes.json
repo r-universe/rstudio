@@ -46,5 +46,11 @@
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
     "from": "learnr"
+  },
+  {
+    "package": "tinytex",
+    "url": "https://github.com/yihui/tinytex",
+    "via": ["rmarkdown"],
+    "from": "rmarkdown"
   }
 ]
