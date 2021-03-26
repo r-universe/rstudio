@@ -36,6 +36,12 @@
     "from": "flexdashboard"
   },
   {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
