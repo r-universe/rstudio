@@ -38,6 +38,12 @@
   {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
+    "via": ["bookdown", "bslib"],
+    "from": "bookdown"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
     "via": ["bslib"],
     "from": "bslib"
   },
