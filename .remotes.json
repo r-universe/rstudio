@@ -2,20 +2,8 @@
   {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
-    "via": ["bookdown"],
-    "from": "bookdown"
-  },
-  {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
     "via": ["flexdashboard"],
     "from": "flexdashboard"
-  },
-  {
-    "package": "downlit",
-    "url": "https://github.com/r-lib/downlit",
-    "via": ["bookdown"],
-    "from": "bookdown"
   },
   {
     "package": "htmltools",
@@ -26,20 +14,8 @@
   {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
-    "via": ["bookdown"],
-    "from": "bookdown"
-  },
-  {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
     "via": ["flexdashboard"],
     "from": "flexdashboard"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["bookdown", "bslib"],
-    "from": "bookdown"
   },
   {
     "package": "sass",
@@ -52,12 +28,6 @@
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
     "from": "learnr"
-  },
-  {
-    "package": "tinytex",
-    "url": "https://github.com/yihui/tinytex",
-    "via": ["bookdown", "rmarkdown"],
-    "from": "bookdown"
   },
   {
     "package": "tinytex",

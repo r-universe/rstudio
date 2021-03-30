@@ -231,10 +231,6 @@
 	path = webdriver
 	url = https://github.com/rstudio/webdriver
 	shallow = true
-[submodule "downlit"]
-	path = downlit
-	url = https://github.com/r-lib/downlit
-	shallow = true
 [submodule "tinytex"]
 	path = tinytex
 	url = https://github.com/yihui/tinytex
