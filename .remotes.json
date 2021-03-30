@@ -24,10 +24,22 @@
     "from": "bslib"
   },
   {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["flexdashboard", "bslib"],
+    "from": "flexdashboard"
+  },
+  {
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
     "from": "learnr"
+  },
+  {
+    "package": "tinytex",
+    "url": "https://github.com/yihui/tinytex",
+    "via": ["flexdashboard", "rmarkdown"],
+    "from": "flexdashboard"
   },
   {
     "package": "tinytex",
