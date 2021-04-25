@@ -20,6 +20,12 @@
   {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["distill"],
+    "from": "distill"
+  },
+  {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
     "via": ["flexdashboard"],
     "from": "flexdashboard"
   },
@@ -40,6 +46,12 @@
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
     "from": "learnr"
+  },
+  {
+    "package": "tinytex",
+    "url": "https://github.com/yihui/tinytex",
+    "via": ["distill", "rmarkdown"],
+    "from": "distill"
   },
   {
     "package": "tinytex",
