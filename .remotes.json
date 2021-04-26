@@ -38,6 +38,12 @@
   {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
+    "via": ["flexdashboard"],
+    "from": "flexdashboard"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
     "via": ["flexdashboard", "bslib"],
     "from": "flexdashboard"
   },
