@@ -8,6 +8,12 @@
   {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
+    "via": ["flexdashboard", "rmarkdown"],
+    "from": "flexdashboard"
+  },
+  {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
     "via": ["rmarkdown"],
     "from": "rmarkdown"
   },
@@ -56,6 +62,18 @@
   {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
+    "via": ["flexdashboard", "rmarkdown"],
+    "from": "flexdashboard"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["flexdashboard", "rmarkdown", "bslib"],
+    "from": "flexdashboard"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
     "via": ["rmarkdown"],
     "from": "rmarkdown"
   },
@@ -76,12 +94,6 @@
     "url": "https://github.com/yihui/tinytex",
     "via": ["distill", "rmarkdown"],
     "from": "distill"
-  },
-  {
-    "package": "tinytex",
-    "url": "https://github.com/yihui/tinytex",
-    "via": ["flexdashboard", "rmarkdown"],
-    "from": "flexdashboard"
   },
   {
     "package": "tinytex",
