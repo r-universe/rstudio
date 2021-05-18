@@ -102,12 +102,6 @@
     "from": "rmarkdown"
   },
   {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["rmarkdown", "bslib"],
-    "from": "rmarkdown"
-  },
-  {
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
