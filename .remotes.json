@@ -96,12 +96,6 @@
     "from": "flexdashboard"
   },
   {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["rmarkdown"],
-    "from": "rmarkdown"
-  },
-  {
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
