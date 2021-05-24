@@ -78,24 +78,6 @@
     "from": "flexdashboard"
   },
   {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["flexdashboard", "bslib"],
-    "from": "flexdashboard"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["flexdashboard", "rmarkdown"],
-    "from": "flexdashboard"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["flexdashboard", "rmarkdown", "bslib"],
-    "from": "flexdashboard"
-  },
-  {
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
     "via": ["learnr"],
