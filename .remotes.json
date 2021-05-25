@@ -26,6 +26,12 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
     "via": ["learnr"],
     "from": "learnr"
   },
@@ -34,6 +40,12 @@
     "url": "https://github.com/rstudio/htmltools",
     "via": ["shiny"],
     "from": "shiny"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["bslib", "htmltools"],
+    "from": "bslib"
   },
   {
     "package": "rlang",
