@@ -233,6 +233,11 @@
 	url = https://github.com/rstudio/shinytest
 	shallow = true
 	registered = true
+[submodule "shinyvalidate"]
+	path = shinyvalidate
+	url = https://github.com/rstudio/shinyvalidate
+	shallow = true
+	registered = true
 [submodule "sortable"]
 	path = sortable
 	url = https://github.com/rstudio/sortable

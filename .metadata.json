@@ -184,6 +184,10 @@
     "oncran": true
   },
   {
+    "package": "shinyvalidate",
+    "oncran": true
+  },
+  {
     "package": "sortable",
     "oncran": true
   },
