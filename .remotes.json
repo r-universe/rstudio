@@ -8,12 +8,6 @@
   {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
-    "via": ["flexdashboard", "rmarkdown"],
-    "from": "flexdashboard"
-  },
-  {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
     "via": ["shiny"],
     "from": "shiny"
   },
@@ -22,6 +16,12 @@
     "url": "https://github.com/rstudio/htmltools",
     "via": ["bslib"],
     "from": "bslib"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["flexdashboard", "bslib"],
+    "from": "flexdashboard"
   },
   {
     "package": "htmltools",
@@ -46,6 +46,12 @@
     "url": "https://github.com/r-lib/rlang",
     "via": ["bslib", "htmltools"],
     "from": "bslib"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["flexdashboard", "bslib", "htmltools"],
+    "from": "flexdashboard"
   },
   {
     "package": "rlang",
