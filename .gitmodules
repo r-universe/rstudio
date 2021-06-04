@@ -298,8 +298,3 @@
 	url = https://github.com/r-lib/rlang
 	shallow = true
 	registered = false
-[submodule "tinytex"]
-	path = tinytex
-	url = https://github.com/yihui/tinytex
-	shallow = true
-	registered = false
