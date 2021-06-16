@@ -180,6 +180,10 @@
     "oncran": true
   },
   {
+    "package": "shinymeta",
+    "oncran": true
+  },
+  {
     "package": "shinytest",
     "oncran": true
   },

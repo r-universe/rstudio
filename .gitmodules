@@ -228,6 +228,11 @@
 	url = https://github.com/rstudio/shinyloadtest
 	shallow = true
 	registered = true
+[submodule "shinymeta"]
+	path = shinymeta
+	url = https://github.com/rstudio/shinymeta
+	shallow = true
+	registered = true
 [submodule "shinytest"]
 	path = shinytest
 	url = https://github.com/rstudio/shinytest
