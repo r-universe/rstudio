@@ -2,12 +2,6 @@
   {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
-    "via": ["flexdashboard"],
-    "from": "flexdashboard"
-  },
-  {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
     "via": ["shiny"],
     "from": "shiny"
   },
@@ -22,12 +16,6 @@
     "url": "https://github.com/rstudio/htmltools",
     "via": ["bslib", "shiny"],
     "from": "bslib"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["flexdashboard", "bslib"],
-    "from": "flexdashboard"
   },
   {
     "package": "htmltools",
@@ -68,12 +56,6 @@
   {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
-    "via": ["flexdashboard", "bslib", "htmltools"],
-    "from": "flexdashboard"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
     "via": ["htmltools"],
     "from": "htmltools"
   },
@@ -106,18 +88,6 @@
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["distill"],
     "from": "distill"
-  },
-  {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
-    "via": ["flexdashboard"],
-    "from": "flexdashboard"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["flexdashboard"],
-    "from": "flexdashboard"
   },
   {
     "package": "shiny",
