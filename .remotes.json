@@ -48,18 +48,6 @@
     "from": "shiny"
   },
   {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["shiny", "bslib", "htmltools"],
-    "from": "shiny"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["shiny", "htmltools"],
-    "from": "shiny"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["distill"],
