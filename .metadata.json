@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "connectwidgets",
+    "oncran": true
+  },
+  {
     "package": "crosstalk",
     "oncran": true
   },
