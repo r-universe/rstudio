@@ -112,6 +112,10 @@
     "oncran": true
   },
   {
+    "package": "plumbertableau",
+    "oncran": true
+  },
+  {
     "package": "pool",
     "oncran": true
   },

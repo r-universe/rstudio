@@ -143,6 +143,11 @@
 	url = https://github.com/rstudio/plumber
 	shallow = true
 	registered = true
+[submodule "plumbertableau"]
+	path = plumbertableau
+	url = https://github.com/rstudio/plumbertableau
+	shallow = true
+	registered = true
 [submodule "pool"]
 	path = pool
 	url = https://github.com/rstudio/pool
