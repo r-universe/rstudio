@@ -313,3 +313,8 @@
 	url = https://github.com/r-lib/rlang
 	shallow = true
 	registered = false
+[submodule "servr"]
+	path = servr
+	url = https://github.com/yihui/servr
+	shallow = true
+	registered = false

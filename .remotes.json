@@ -54,6 +54,12 @@
     "from": "distill"
   },
   {
+    "package": "servr",
+    "url": "https://github.com/yihui/servr",
+    "via": ["pagedown"],
+    "from": "pagedown"
+  },
+  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
