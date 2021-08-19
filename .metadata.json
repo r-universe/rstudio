@@ -242,5 +242,9 @@
   {
     "package": "webdriver",
     "oncran": true
+  },
+  {
+    "package": "websocket",
+    "oncran": true
   }
 ]
