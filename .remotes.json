@@ -20,12 +20,6 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
-    "via": ["learnr"],
-    "from": "learnr"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
     "via": ["shiny", "bslib"],
     "from": "shiny"
   },
@@ -58,12 +52,6 @@
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
     "from": "bslib"
-  },
-  {
-    "package": "shinytest",
-    "url": "https://github.com/rstudio/shinytest",
-    "via": ["learnr"],
-    "from": "learnr"
   },
   {
     "package": "tensorflow",
