@@ -8,18 +8,6 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
-    "via": ["bslib"],
-    "from": "bslib"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["bslib", "shiny"],
-    "from": "bslib"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
     "via": ["shiny", "bslib"],
     "from": "shiny"
   },
@@ -30,21 +18,9 @@
     "from": "shiny"
   },
   {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["bslib", "shiny"],
-    "from": "bslib"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["distill"],
     "from": "distill"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["bslib"],
-    "from": "bslib"
   }
 ]
