@@ -1,23 +1,5 @@
 [
   {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["shiny", "bslib"],
-    "from": "shiny"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["distill"],
