@@ -128,10 +128,6 @@
     "oncran": true
   },
   {
-    "package": "radix",
-    "oncran": true
-  },
-  {
     "package": "reactlog",
     "oncran": true
   },
