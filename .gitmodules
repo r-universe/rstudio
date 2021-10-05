@@ -163,11 +163,6 @@
 	url = https://github.com/rstudio/r2d3
 	shallow = true
 	registered = true
-[submodule "radix"]
-	path = radix
-	url = https://github.com/rstudio/radix
-	shallow = true
-	registered = true
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/rstudio/reactlog
