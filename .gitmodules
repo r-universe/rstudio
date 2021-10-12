@@ -43,6 +43,11 @@
 	url = https://github.com/rstudio/crosstalk
 	shallow = true
 	registered = true
+[submodule "distill"]
+	path = distill
+	url = https://github.com/rstudio/distill
+	shallow = true
+	registered = true
 [submodule "DT"]
 	path = DT
 	url = https://github.com/rstudio/dt
