@@ -20,8 +20,7 @@
     "oncran": true
   },
   {
-    "package": "connections",
-    "oncran": true
+    "package": "connections"
   },
   {
     "package": "connectwidgets",
