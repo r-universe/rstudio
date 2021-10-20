@@ -28,11 +28,6 @@
 	url = https://github.com/rstudio/config
 	shallow = true
 	registered = true
-[submodule "connections"]
-	path = connections
-	url = https://github.com/rstudio/connections
-	shallow = true
-	registered = true
 [submodule "connectwidgets"]
 	path = connectwidgets
 	url = https://github.com/rstudio/connectwidgets
