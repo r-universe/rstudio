@@ -1,5 +1,11 @@
 [
   {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
+    "via": ["tensorflow"],
+    "from": "tensorflow"
+  },
+  {
     "package": "xfun",
     "url": "https://github.com/yihui/xfun",
     "via": ["blogdown"],
