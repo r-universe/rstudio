@@ -84,8 +84,7 @@
     "oncran": true
   },
   {
-    "package": "mleap",
-    "oncran": true
+    "package": "mleap"
   },
   {
     "package": "nomnoml",
