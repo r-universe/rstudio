@@ -108,11 +108,6 @@
 	url = https://github.com/rstudio/markdown
 	shallow = true
 	registered = true
-[submodule "mleap"]
-	path = mleap
-	url = https://github.com/rstudio/mleap
-	shallow = true
-	registered = true
 [submodule "nomnoml"]
 	path = nomnoml
 	url = https://github.com/rstudio/nomnoml
