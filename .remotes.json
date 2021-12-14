@@ -2,8 +2,20 @@
   {
     "package": "reticulate",
     "url": "https://github.com/rstudio/reticulate",
+    "via": ["keras", "tensorflow"],
+    "from": "keras"
+  },
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
     "via": ["tensorflow"],
     "from": "tensorflow"
+  },
+  {
+    "package": "tensorflow",
+    "url": "https://github.com/rstudio/tensorflow",
+    "via": ["keras"],
+    "from": "keras"
   },
   {
     "package": "xfun",
