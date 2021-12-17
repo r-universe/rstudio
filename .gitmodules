@@ -298,8 +298,3 @@
 	url = https://github.com/rstudio/websocket
 	shallow = true
 	registered = true
-[submodule "xfun"]
-	path = xfun
-	url = https://github.com/yihui/xfun
-	shallow = true
-	registered = false
