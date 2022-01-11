@@ -68,10 +68,6 @@
     "oncran": true
   },
   {
-    "package": "leaflet",
-    "oncran": true
-  },
-  {
     "package": "leaflet.providers",
     "oncran": true
   },
