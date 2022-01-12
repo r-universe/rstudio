@@ -88,6 +88,11 @@
 	url = https://github.com/rstudio/keras
 	shallow = true
 	registered = true
+[submodule "leaflet"]
+	path = leaflet
+	url = https://github.com/rstudio/leaflet
+	shallow = true
+	registered = true
 [submodule "leaflet.providers"]
 	path = leaflet.providers
 	url = https://github.com/rstudio/leaflet.providers
