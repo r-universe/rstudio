@@ -18,6 +18,12 @@
     "from": "tensorflow"
   },
   {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["bookdown"],
+    "from": "bookdown"
+  },
+  {
     "package": "tensorflow",
     "url": "https://github.com/rstudio/tensorflow",
     "via": ["keras"],
