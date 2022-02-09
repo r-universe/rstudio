@@ -12,12 +12,6 @@
     "from": "keras"
   },
   {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["tensorflow"],
-    "from": "tensorflow"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["bookdown"],
