@@ -4,5 +4,17 @@
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["bookdown"],
     "from": "bookdown"
+  },
+  {
+    "package": "s2",
+    "url": "https://github.com/r-spatial/s2",
+    "via": ["leaflet"],
+    "from": "leaflet"
+  },
+  {
+    "package": "sf",
+    "url": "https://github.com/r-spatial/sf",
+    "via": ["leaflet"],
+    "from": "leaflet"
   }
 ]
