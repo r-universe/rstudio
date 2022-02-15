@@ -298,13 +298,3 @@
 	url = https://github.com/rstudio/websocket
 	shallow = true
 	registered = true
-[submodule "s2"]
-	path = s2
-	url = https://github.com/r-spatial/s2
-	shallow = true
-	registered = false
-[submodule "sf"]
-	path = sf
-	url = https://github.com/r-spatial/sf
-	shallow = true
-	registered = false
