@@ -143,6 +143,11 @@
 	url = https://github.com/rstudio/pool
 	shallow = true
 	registered = true
+[submodule "profvis"]
+	path = profvis
+	url = https://github.com/rstudio/profvis
+	shallow = true
+	registered = true
 [submodule "promises"]
 	path = promises
 	url = https://github.com/rstudio/promises
@@ -231,6 +236,11 @@
 [submodule "shinytest"]
 	path = shinytest
 	url = https://github.com/rstudio/shinytest
+	shallow = true
+	registered = true
+[submodule "shinythemes"]
+	path = shinythemes
+	url = https://github.com/rstudio/shinythemes
 	shallow = true
 	registered = true
 [submodule "shinyvalidate"]

@@ -112,6 +112,10 @@
     "oncran": true
   },
   {
+    "package": "profvis",
+    "oncran": true
+  },
+  {
     "package": "promises",
     "oncran": true
   },
@@ -181,6 +185,10 @@
   },
   {
     "package": "shinytest",
+    "oncran": true
+  },
+  {
+    "package": "shinythemes",
     "oncran": true
   },
   {
