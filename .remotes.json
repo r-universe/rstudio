@@ -1,8 +1,0 @@
-[
-  {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
-    "via": ["bookdown"],
-    "from": "bookdown"
-  }
-]
