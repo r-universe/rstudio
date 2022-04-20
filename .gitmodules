@@ -23,6 +23,11 @@
 	url = https://github.com/rstudio/bslib
 	shallow = true
 	registered = true
+[submodule "chromote"]
+	path = chromote
+	url = https://github.com/rstudio/chromote
+	shallow = true
+	registered = true
 [submodule "config"]
 	path = config
 	url = https://github.com/rstudio/config

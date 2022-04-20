@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "chromote",
+    "oncran": true
+  },
+  {
     "package": "config",
     "oncran": true
   },
