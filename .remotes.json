@@ -2,12 +2,6 @@
   {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
-    "via": ["bookdown"],
-    "from": "bookdown"
-  },
-  {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
     "via": ["rticles"],
     "from": "rticles"
   }
