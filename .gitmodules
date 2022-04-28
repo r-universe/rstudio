@@ -243,6 +243,11 @@
 	url = https://github.com/rstudio/shinytest
 	shallow = true
 	registered = true
+[submodule "shinytest2"]
+	path = shinytest2
+	url = https://github.com/rstudio/shinytest2
+	shallow = true
+	registered = true
 [submodule "shinythemes"]
 	path = shinythemes
 	url = https://github.com/rstudio/shinythemes
