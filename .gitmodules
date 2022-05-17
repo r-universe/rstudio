@@ -303,6 +303,11 @@
 	url = https://github.com/rstudio/thematic
 	shallow = true
 	registered = true
+[submodule "tinytex"]
+	path = tinytex
+	url = https://github.com/rstudio/tinytex
+	shallow = true
+	registered = true
 [submodule "tufte"]
 	path = tufte
 	url = https://github.com/rstudio/tufte

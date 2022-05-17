@@ -240,6 +240,10 @@
     "oncran": true
   },
   {
+    "package": "tinytex",
+    "oncran": true
+  },
+  {
     "package": "tufte",
     "oncran": true
   },
