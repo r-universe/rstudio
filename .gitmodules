@@ -318,6 +318,11 @@
 	url = https://github.com/rstudio/webdriver
 	shallow = true
 	registered = true
+[submodule "webshot2"]
+	path = webshot2
+	url = https://github.com/rstudio/webshot2
+	shallow = true
+	registered = true
 [submodule "websocket"]
 	path = websocket
 	url = https://github.com/rstudio/websocket

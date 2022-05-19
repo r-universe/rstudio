@@ -252,6 +252,10 @@
     "oncran": true
   },
   {
+    "package": "webshot2",
+    "oncran": true
+  },
+  {
     "package": "websocket",
     "oncran": true
   }
