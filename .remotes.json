@@ -10,5 +10,11 @@
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["rticles"],
     "from": "rticles"
+  },
+  {
+    "package": "tensorflow",
+    "url": "https://github.com/rstudio/tensorflow",
+    "via": ["keras"],
+    "from": "keras"
   }
 ]
