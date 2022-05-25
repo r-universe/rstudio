@@ -313,6 +313,11 @@
 	url = https://github.com/rstudio/tufte
 	shallow = true
 	registered = true
+[submodule "vetiver"]
+	path = vetiver
+	url = https://github.com/rstudio/vetiver-r
+	shallow = true
+	registered = true
 [submodule "webdriver"]
 	path = webdriver
 	url = https://github.com/rstudio/webdriver

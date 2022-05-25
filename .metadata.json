@@ -248,6 +248,10 @@
     "oncran": true
   },
   {
+    "package": "vetiver",
+    "oncran": true
+  },
+  {
     "package": "webdriver",
     "oncran": true
   },
