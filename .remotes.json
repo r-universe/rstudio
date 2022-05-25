@@ -1,11 +1,5 @@
 [
   {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
-    "via": ["webshot2"],
-    "from": "webshot2"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["rticles"],
