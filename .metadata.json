@@ -1,5 +1,9 @@
 [
   {
+    "package": "blastula",
+    "oncran": true
+  },
+  {
     "package": "blogdown",
     "oncran": true
   },
