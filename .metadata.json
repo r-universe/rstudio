@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "connectapi",
+    "oncran": true
+  },
+  {
     "package": "connectwidgets",
     "oncran": true
   },
