@@ -135,7 +135,7 @@
 	registered = true
 [submodule "pins"]
 	path = pins
-	url = https://github.com/rstudio/pins
+	url = https://github.com/rstudio/pins-r
 	shallow = true
 	registered = true
 [submodule "plumber"]
