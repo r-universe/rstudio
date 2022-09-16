@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "bundle",
+    "oncran": true
+  },
+  {
     "package": "chromote",
     "oncran": true
   },
