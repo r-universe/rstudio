@@ -40,6 +40,18 @@
     "oncran": true
   },
   {
+    "package": "distill",
+    "oncran": true
+  },
+  {
+    "package": "DT",
+    "oncran": true
+  },
+  {
+    "package": "dygraphs",
+    "oncran": true
+  },
+  {
     "package": "flexdashboard",
     "oncran": true
   },
@@ -77,6 +89,10 @@
   },
   {
     "package": "learnr",
+    "oncran": true
+  },
+  {
+    "package": "markdown",
     "oncran": true
   },
   {

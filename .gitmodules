@@ -53,6 +53,21 @@
 	url = https://github.com/rstudio/crosstalk
 	shallow = true
 	registered = true
+[submodule "distill"]
+	path = distill
+	url = https://github.com/rstudio/distill
+	shallow = true
+	registered = true
+[submodule "DT"]
+	path = DT
+	url = https://github.com/rstudio/dt
+	shallow = true
+	registered = true
+[submodule "dygraphs"]
+	path = dygraphs
+	url = https://github.com/rstudio/dygraphs
+	shallow = true
+	registered = true
 [submodule "flexdashboard"]
 	path = flexdashboard
 	url = https://github.com/rstudio/flexdashboard
@@ -101,6 +116,11 @@
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
+	shallow = true
+	registered = true
+[submodule "markdown"]
+	path = markdown
+	url = https://github.com/rstudio/markdown
 	shallow = true
 	registered = true
 [submodule "nomnoml"]
