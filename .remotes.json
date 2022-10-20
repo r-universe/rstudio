@@ -1,7 +1,37 @@
 [
   {
+    "package": "DT",
+    "url": "https://github.com/rstudio/DT",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
     "package": "bsicons",
     "url": "https://github.com/rstudio/bsicons",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
+    "package": "htmlwidgets",
+    "url": "https://github.com/ramnathv/htmlwidgets",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
+    "package": "leaflet",
+    "url": "https://github.com/rstudio/leaflet",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
+    "package": "plotly",
+    "url": "https://github.com/ropensci/plotly",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
     "from": "bslib"
   }

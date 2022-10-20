@@ -348,3 +348,13 @@
 	url = https://github.com/rstudio/bsicons
 	shallow = true
 	registered = false
+[submodule "htmlwidgets"]
+	path = htmlwidgets
+	url = https://github.com/ramnathv/htmlwidgets
+	shallow = true
+	registered = false
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/ropensci/plotly
+	shallow = true
+	registered = false
