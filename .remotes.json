@@ -1,0 +1,8 @@
+[
+  {
+    "package": "bsicons",
+    "url": "https://github.com/rstudio/bsicons",
+    "via": ["bslib"],
+    "from": "bslib"
+  }
+]
