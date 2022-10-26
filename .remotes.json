@@ -14,6 +14,12 @@
   {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
+    "via": ["bslib", "shiny"],
+    "from": "bslib"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
     "via": ["bslib", "htmlwidgets"],
     "from": "bslib"
   },
