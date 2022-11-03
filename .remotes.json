@@ -36,6 +36,12 @@
     "from": "bslib"
   },
   {
+    "package": "servr",
+    "url": "https://github.com/yihui/servr",
+    "via": ["blogdown"],
+    "from": "blogdown"
+  },
+  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
