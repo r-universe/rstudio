@@ -353,8 +353,3 @@
 	url = https://github.com/ramnathv/htmlwidgets
 	shallow = true
 	registered = false
-[submodule "servr"]
-	path = servr
-	url = https://github.com/yihui/servr
-	shallow = true
-	registered = false
