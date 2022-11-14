@@ -36,6 +36,12 @@
     "from": "bslib"
   },
   {
+    "package": "pins",
+    "url": "https://github.com/rstudio/pins-r",
+    "via": ["vetiver"],
+    "from": "vetiver"
+  },
+  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
