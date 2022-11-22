@@ -1,11 +1,5 @@
 [
   {
-    "package": "bsicons",
-    "url": "https://github.com/rstudio/bsicons",
-    "via": ["bslib"],
-    "from": "bslib"
-  },
-  {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
     "via": ["bslib"],

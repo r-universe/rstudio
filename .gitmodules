@@ -343,11 +343,6 @@
 	url = https://github.com/rstudio/websocket
 	shallow = true
 	registered = true
-[submodule "bsicons"]
-	path = bsicons
-	url = https://github.com/rstudio/bsicons
-	shallow = true
-	registered = false
 [submodule "htmlwidgets"]
 	path = htmlwidgets
 	url = https://github.com/ramnathv/htmlwidgets
