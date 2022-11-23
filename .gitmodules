@@ -18,6 +18,11 @@
 	url = https://github.com/rstudio/bookdown
 	shallow = true
 	registered = true
+[submodule "bsicons"]
+	path = bsicons
+	url = https://github.com/rstudio/bsicons
+	shallow = true
+	registered = true
 [submodule "bslib"]
 	path = bslib
 	url = https://github.com/rstudio/bslib

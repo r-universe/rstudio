@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "bsicons",
+    "oncran": true
+  },
+  {
     "package": "bslib",
     "oncran": true
   },
