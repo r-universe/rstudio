@@ -1,11 +1,5 @@
 [
   {
-    "package": "butcher",
-    "url": "https://github.com/tidymodels/butcher",
-    "via": ["vetiver"],
-    "from": "vetiver"
-  },
-  {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
     "via": ["bslib"],
