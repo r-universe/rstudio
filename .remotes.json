@@ -18,12 +18,6 @@
     "from": "bslib"
   },
   {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["shiny"],
-    "from": "shiny"
-  },
-  {
     "package": "htmlwidgets",
     "url": "https://github.com/ramnathv/htmlwidgets",
     "via": ["bslib"],
