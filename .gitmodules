@@ -348,8 +348,3 @@
 	url = https://github.com/rstudio/websocket
 	shallow = true
 	registered = true
-[submodule "htmlwidgets"]
-	path = htmlwidgets
-	url = https://github.com/ramnathv/htmlwidgets
-	shallow = true
-	registered = false

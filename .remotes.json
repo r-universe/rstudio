@@ -1,38 +1,8 @@
 [
   {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["bslib"],
-    "from": "bslib"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["bslib", "shiny"],
-    "from": "bslib"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["bslib", "htmlwidgets"],
-    "from": "bslib"
-  },
-  {
-    "package": "htmlwidgets",
-    "url": "https://github.com/ramnathv/htmlwidgets",
-    "via": ["bslib"],
-    "from": "bslib"
-  },
-  {
     "package": "pins",
     "url": "https://github.com/rstudio/pins-r",
     "via": ["vetiver"],
     "from": "vetiver"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["bslib"],
-    "from": "bslib"
   }
 ]
