@@ -32,12 +32,6 @@
     "oncran": true
   },
   {
-    "package": "connectapi"
-  },
-  {
-    "package": "connectwidgets"
-  },
-  {
     "package": "crosstalk",
     "oncran": true
   },
