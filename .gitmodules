@@ -43,6 +43,11 @@
 	url = https://github.com/rstudio/config
 	shallow = true
 	registered = true
+[submodule "connectwidgets"]
+	path = connectwidgets
+	url = https://github.com/rstudio/connectwidgets
+	shallow = true
+	registered = true
 [submodule "crosstalk"]
 	path = crosstalk
 	url = https://github.com/rstudio/crosstalk
