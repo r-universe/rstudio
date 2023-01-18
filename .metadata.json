@@ -176,10 +176,6 @@
     "oncran": true
   },
   {
-    "package": "scrypt",
-    "oncran": true
-  },
-  {
     "package": "shiny",
     "oncran": true
   },

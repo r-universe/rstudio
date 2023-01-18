@@ -223,11 +223,6 @@
 	url = https://github.com/rstudio/sass
 	shallow = true
 	registered = true
-[submodule "scrypt"]
-	path = scrypt
-	url = https://github.com/rstudio/rscrypt
-	shallow = true
-	registered = true
 [submodule "shiny"]
 	path = shiny
 	url = https://github.com/rstudio/shiny
