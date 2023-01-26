@@ -1,8 +1,0 @@
-[
-  {
-    "package": "pins",
-    "url": "https://github.com/rstudio/pins-r",
-    "via": ["vetiver"],
-    "from": "vetiver"
-  }
-]
