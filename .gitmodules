@@ -43,6 +43,11 @@
 	url = https://github.com/rstudio/config
 	shallow = true
 	registered = true
+[submodule "connectapi"]
+	path = connectapi
+	url = https://github.com/rstudio/connectapi
+	shallow = true
+	registered = true
 [submodule "connectwidgets"]
 	path = connectwidgets
 	url = https://github.com/rstudio/connectwidgets
