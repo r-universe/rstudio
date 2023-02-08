@@ -1,5 +1,9 @@
 [
   {
+    "package": "bigD",
+    "oncran": true
+  },
+  {
     "package": "blastula",
     "oncran": true
   },
@@ -77,6 +81,10 @@
   },
   {
     "package": "httpuv",
+    "oncran": true
+  },
+  {
+    "package": "juicyjuice",
     "oncran": true
   },
   {

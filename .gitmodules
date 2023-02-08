@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bigD"]
+	path = bigD
+	url = https://github.com/rstudio/bigd
+	shallow = true
+	registered = true
 [submodule "blastula"]
 	path = blastula
 	url = https://github.com/rstudio/blastula
@@ -101,6 +106,11 @@
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
+	shallow = true
+	registered = true
+[submodule "juicyjuice"]
+	path = juicyjuice
+	url = https://github.com/rstudio/juicyjuice
 	shallow = true
 	registered = true
 [submodule "keras"]
