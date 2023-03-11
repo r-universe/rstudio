@@ -6,9 +6,27 @@
     "from": "gradethis"
   },
   {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
+    "via": ["tblcheck", "gradethis"],
+    "from": "tblcheck"
+  },
+  {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
+    "via": ["tblcheck"],
+    "from": "tblcheck"
+  },
+  {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["gradethis"],
     "from": "gradethis"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["tblcheck", "gradethis"],
+    "from": "tblcheck"
   }
 ]
