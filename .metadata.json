@@ -1,86 +1,10 @@
 [
   {
-    "package": "bigD",
-    "oncran": true
-  },
-  {
     "package": "blastula",
     "oncran": true
   },
   {
-    "package": "blogdown",
-    "oncran": true
-  },
-  {
-    "package": "bookdown",
-    "oncran": true
-  },
-  {
-    "package": "bsicons",
-    "oncran": true
-  },
-  {
-    "package": "bslib",
-    "oncran": true
-  },
-  {
-    "package": "bundle",
-    "oncran": true
-  },
-  {
-    "package": "chromote",
-    "oncran": true
-  },
-  {
-    "package": "config",
-    "oncran": true
-  },
-  {
-    "package": "connectapi",
-    "oncran": true
-  },
-  {
-    "package": "connectwidgets",
-    "oncran": true
-  },
-  {
-    "package": "crosstalk",
-    "oncran": true
-  },
-  {
-    "package": "distill",
-    "oncran": true
-  },
-  {
-    "package": "DT",
-    "oncran": true
-  },
-  {
-    "package": "dygraphs",
-    "oncran": true
-  },
-  {
-    "package": "flexdashboard",
-    "oncran": true
-  },
-  {
-    "package": "fontawesome",
-    "oncran": true
-  },
-  {
-    "package": "graphframes",
-    "oncran": true
-  },
-  {
-    "package": "gt",
-    "oncran": true
-  },
-  {
-    "package": "htmltools",
-    "oncran": true
-  },
-  {
-    "package": "httpuv",
+    "package": "bigD",
     "oncran": true
   },
   {
@@ -88,87 +12,7 @@
     "oncran": true
   },
   {
-    "package": "keras",
-    "oncran": true
-  },
-  {
-    "package": "leaflet",
-    "oncran": true
-  },
-  {
-    "package": "leaflet.providers",
-    "oncran": true
-  },
-  {
-    "package": "learnr",
-    "oncran": true
-  },
-  {
-    "package": "markdown",
-    "oncran": true
-  },
-  {
-    "package": "nomnoml",
-    "oncran": true
-  },
-  {
-    "package": "packrat",
-    "oncran": true
-  },
-  {
-    "package": "pagedown",
-    "oncran": true
-  },
-  {
-    "package": "pins",
-    "oncran": true
-  },
-  {
-    "package": "plumber",
-    "oncran": true
-  },
-  {
-    "package": "plumbertableau",
-    "oncran": true
-  },
-  {
-    "package": "pool",
-    "oncran": true
-  },
-  {
-    "package": "profvis",
-    "oncran": true
-  },
-  {
-    "package": "promises",
-    "oncran": true
-  },
-  {
-    "package": "r2d3",
-    "oncran": true
-  },
-  {
-    "package": "reactlog",
-    "oncran": true
-  },
-  {
-    "package": "renv",
-    "oncran": true
-  },
-  {
-    "package": "reticulate",
-    "oncran": true
-  },
-  {
-    "package": "revealjs",
-    "oncran": true
-  },
-  {
-    "package": "rmarkdown",
-    "oncran": true
-  },
-  {
-    "package": "rsconnect",
+    "package": "connectwidgets",
     "oncran": true
   },
   {
@@ -176,87 +20,23 @@
     "oncran": true
   },
   {
+    "package": "r2d3",
+    "oncran": true
+  },
+  {
     "package": "rstudioapi",
     "oncran": true
   },
   {
-    "package": "rticles",
+    "package": "renv",
     "oncran": true
   },
   {
-    "package": "sass",
+    "package": "pool",
     "oncran": true
   },
   {
-    "package": "shiny",
-    "oncran": true
-  },
-  {
-    "package": "shinydashboard",
-    "oncran": true
-  },
-  {
-    "package": "shinyloadtest",
-    "oncran": true
-  },
-  {
-    "package": "shinymeta",
-    "oncran": true
-  },
-  {
-    "package": "shinytest",
-    "oncran": true
-  },
-  {
-    "package": "shinytest2",
-    "oncran": true
-  },
-  {
-    "package": "shinythemes",
-    "oncran": true
-  },
-  {
-    "package": "shinyvalidate",
-    "oncran": true
-  },
-  {
-    "package": "sortable",
-    "oncran": true
-  },
-  {
-    "package": "swagger",
-    "oncran": true
-  },
-  {
-    "package": "tensorflow",
-    "oncran": true
-  },
-  {
-    "package": "tfdatasets",
-    "oncran": true
-  },
-  {
-    "package": "tfestimators",
-    "oncran": true
-  },
-  {
-    "package": "tfhub",
-    "oncran": true
-  },
-  {
-    "package": "tfprobability",
-    "oncran": true
-  },
-  {
-    "package": "tfruns",
-    "oncran": true
-  },
-  {
-    "package": "thematic",
-    "oncran": true
-  },
-  {
-    "package": "tinytex",
+    "package": "connectapi",
     "oncran": true
   },
   {
@@ -264,7 +44,107 @@
     "oncran": true
   },
   {
+    "package": "rticles",
+    "oncran": true
+  },
+  {
+    "package": "distill",
+    "oncran": true
+  },
+  {
+    "package": "sortable",
+    "oncran": true
+  },
+  {
+    "package": "config",
+    "oncran": true
+  },
+  {
+    "package": "nomnoml",
+    "oncran": true
+  },
+  {
+    "package": "graphframes",
+    "oncran": true
+  },
+  {
+    "package": "DT",
+    "oncran": true
+  },
+  {
+    "package": "bookdown",
+    "oncran": true
+  },
+  {
+    "package": "pagedown",
+    "oncran": true
+  },
+  {
+    "package": "blogdown",
+    "oncran": true
+  },
+  {
+    "package": "rmarkdown",
+    "oncran": true
+  },
+  {
+    "package": "markdown",
+    "oncran": true
+  },
+  {
+    "package": "tinytex",
+    "oncran": true
+  },
+  {
+    "package": "leaflet.providers",
+    "oncran": true
+  },
+  {
+    "package": "reactlog",
+    "oncran": true
+  },
+  {
+    "package": "shinyloadtest",
+    "oncran": true
+  },
+  {
+    "package": "swagger",
+    "oncran": true
+  },
+  {
+    "package": "plumber",
+    "oncran": true
+  },
+  {
+    "package": "shinytest2",
+    "oncran": true
+  },
+  {
+    "package": "learnr",
+    "oncran": true
+  },
+  {
+    "package": "tfruns",
+    "oncran": true
+  },
+  {
+    "package": "reticulate",
+    "oncran": true
+  },
+  {
+    "package": "plumbertableau",
+    "oncran": true
+  },
+  {
+    "package": "bundle",
+    "oncran": true
+  },
+  {
     "package": "vetiver",
+    "oncran": true
+  },
+  {
+    "package": "pins",
     "oncran": true
   },
   {
@@ -272,11 +152,131 @@
     "oncran": true
   },
   {
-    "package": "webshot2",
+    "package": "promises",
+    "oncran": true
+  },
+  {
+    "package": "leaflet",
+    "oncran": true
+  },
+  {
+    "package": "shinyvalidate",
+    "oncran": true
+  },
+  {
+    "package": "gt",
+    "oncran": true
+  },
+  {
+    "package": "fontawesome",
+    "oncran": true
+  },
+  {
+    "package": "rsconnect",
+    "oncran": true
+  },
+  {
+    "package": "packrat",
+    "oncran": true
+  },
+  {
+    "package": "htmltools",
+    "oncran": true
+  },
+  {
+    "package": "flexdashboard",
+    "oncran": true
+  },
+  {
+    "package": "bslib",
+    "oncran": true
+  },
+  {
+    "package": "sass",
+    "oncran": true
+  },
+  {
+    "package": "bsicons",
+    "oncran": true
+  },
+  {
+    "package": "thematic",
+    "oncran": true
+  },
+  {
+    "package": "shinymeta",
+    "oncran": true
+  },
+  {
+    "package": "crosstalk",
+    "oncran": true
+  },
+  {
+    "package": "shinythemes",
+    "oncran": true
+  },
+  {
+    "package": "shiny",
+    "oncran": true
+  },
+  {
+    "package": "httpuv",
     "oncran": true
   },
   {
     "package": "websocket",
+    "oncran": true
+  },
+  {
+    "package": "shinydashboard",
+    "oncran": true
+  },
+  {
+    "package": "webshot2",
+    "oncran": true
+  },
+  {
+    "package": "profvis",
+    "oncran": true
+  },
+  {
+    "package": "shinytest",
+    "oncran": true
+  },
+  {
+    "package": "chromote",
+    "oncran": true
+  },
+  {
+    "package": "revealjs",
+    "oncran": true
+  },
+  {
+    "package": "keras",
+    "oncran": true
+  },
+  {
+    "package": "tensorflow",
+    "oncran": true
+  },
+  {
+    "package": "tfestimators",
+    "oncran": true
+  },
+  {
+    "package": "tfprobability",
+    "oncran": true
+  },
+  {
+    "package": "tfdatasets",
+    "oncran": true
+  },
+  {
+    "package": "tfhub",
+    "oncran": true
+  },
+  {
+    "package": "dygraphs",
     "oncran": true
   }
 ]
