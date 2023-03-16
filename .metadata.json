@@ -1,282 +1,212 @@
 [
   {
-    "package": "bigD",
-    "oncran": true
+    "package": "bigD"
   },
   {
-    "package": "blastula",
-    "oncran": true
+    "package": "blastula"
   },
   {
-    "package": "blogdown",
-    "oncran": true
+    "package": "blogdown"
   },
   {
-    "package": "bookdown",
-    "oncran": true
+    "package": "bookdown"
   },
   {
-    "package": "bsicons",
-    "oncran": true
+    "package": "bsicons"
   },
   {
-    "package": "bslib",
-    "oncran": true
+    "package": "bslib"
   },
   {
-    "package": "bundle",
-    "oncran": true
+    "package": "bundle"
   },
   {
-    "package": "chromote",
-    "oncran": true
+    "package": "chromote"
   },
   {
-    "package": "config",
-    "oncran": true
+    "package": "config"
   },
   {
-    "package": "connectapi",
-    "oncran": true
+    "package": "connectapi"
   },
   {
-    "package": "connectwidgets",
-    "oncran": true
+    "package": "connectwidgets"
   },
   {
-    "package": "crosstalk",
-    "oncran": true
+    "package": "crosstalk"
   },
   {
-    "package": "distill",
-    "oncran": true
+    "package": "distill"
   },
   {
-    "package": "DT",
-    "oncran": true
+    "package": "DT"
   },
   {
-    "package": "dygraphs",
-    "oncran": true
+    "package": "dygraphs"
   },
   {
-    "package": "flexdashboard",
-    "oncran": true
+    "package": "flexdashboard"
   },
   {
-    "package": "fontawesome",
-    "oncran": true
+    "package": "fontawesome"
   },
   {
-    "package": "graphframes",
-    "oncran": true
+    "package": "graphframes"
   },
   {
-    "package": "gt",
-    "oncran": true
+    "package": "gt"
   },
   {
-    "package": "htmltools",
-    "oncran": true
+    "package": "htmltools"
   },
   {
-    "package": "httpuv",
-    "oncran": true
+    "package": "httpuv"
   },
   {
-    "package": "juicyjuice",
-    "oncran": true
+    "package": "juicyjuice"
   },
   {
-    "package": "keras",
-    "oncran": true
+    "package": "keras"
   },
   {
-    "package": "leaflet",
-    "oncran": true
+    "package": "leaflet"
   },
   {
-    "package": "leaflet.providers",
-    "oncran": true
+    "package": "leaflet.providers"
   },
   {
-    "package": "learnr",
-    "oncran": true
+    "package": "learnr"
   },
   {
-    "package": "markdown",
-    "oncran": true
+    "package": "markdown"
   },
   {
-    "package": "nomnoml",
-    "oncran": true
+    "package": "nomnoml"
   },
   {
-    "package": "packrat",
-    "oncran": true
+    "package": "packrat"
   },
   {
-    "package": "pagedown",
-    "oncran": true
+    "package": "pagedown"
   },
   {
-    "package": "pins",
-    "oncran": true
+    "package": "pins"
   },
   {
-    "package": "plumber",
-    "oncran": true
+    "package": "plumber"
   },
   {
-    "package": "plumbertableau",
-    "oncran": true
+    "package": "plumbertableau"
   },
   {
-    "package": "pool",
-    "oncran": true
+    "package": "pool"
   },
   {
-    "package": "profvis",
-    "oncran": true
+    "package": "profvis"
   },
   {
-    "package": "promises",
-    "oncran": true
+    "package": "promises"
   },
   {
-    "package": "r2d3",
-    "oncran": true
+    "package": "r2d3"
   },
   {
-    "package": "reactlog",
-    "oncran": true
+    "package": "reactlog"
   },
   {
-    "package": "renv",
-    "oncran": true
+    "package": "renv"
   },
   {
-    "package": "reticulate",
-    "oncran": true
+    "package": "reticulate"
   },
   {
-    "package": "revealjs",
-    "oncran": true
+    "package": "revealjs"
   },
   {
-    "package": "rmarkdown",
-    "oncran": true
+    "package": "rmarkdown"
   },
   {
-    "package": "rsconnect",
-    "oncran": true
+    "package": "rsconnect"
   },
   {
-    "package": "rscontract",
-    "oncran": true
+    "package": "rscontract"
   },
   {
-    "package": "rstudioapi",
-    "oncran": true
+    "package": "rstudioapi"
   },
   {
-    "package": "rticles",
-    "oncran": true
+    "package": "rticles"
   },
   {
-    "package": "sass",
-    "oncran": true
+    "package": "sass"
   },
   {
-    "package": "shiny",
-    "oncran": true
+    "package": "shiny"
   },
   {
-    "package": "shinydashboard",
-    "oncran": true
+    "package": "shinydashboard"
   },
   {
-    "package": "shinyloadtest",
-    "oncran": true
+    "package": "shinyloadtest"
   },
   {
-    "package": "shinymeta",
-    "oncran": true
+    "package": "shinymeta"
   },
   {
-    "package": "shinytest",
-    "oncran": true
+    "package": "shinytest"
   },
   {
-    "package": "shinytest2",
-    "oncran": true
+    "package": "shinytest2"
   },
   {
-    "package": "shinythemes",
-    "oncran": true
+    "package": "shinythemes"
   },
   {
-    "package": "shinyvalidate",
-    "oncran": true
+    "package": "shinyvalidate"
   },
   {
-    "package": "sortable",
-    "oncran": true
+    "package": "sortable"
   },
   {
-    "package": "swagger",
-    "oncran": true
+    "package": "swagger"
   },
   {
-    "package": "tensorflow",
-    "oncran": true
+    "package": "tensorflow"
   },
   {
-    "package": "tfdatasets",
-    "oncran": true
+    "package": "tfdatasets"
   },
   {
-    "package": "tfestimators",
-    "oncran": true
+    "package": "tfestimators"
   },
   {
-    "package": "tfhub",
-    "oncran": true
+    "package": "tfhub"
   },
   {
-    "package": "tfprobability",
-    "oncran": true
+    "package": "tfprobability"
   },
   {
-    "package": "tfruns",
-    "oncran": true
+    "package": "tfruns"
   },
   {
-    "package": "thematic",
-    "oncran": true
+    "package": "thematic"
   },
   {
-    "package": "tinytex",
-    "oncran": true
+    "package": "tinytex"
   },
   {
-    "package": "tufte",
-    "oncran": true
+    "package": "tufte"
   },
   {
-    "package": "vetiver",
-    "oncran": true
+    "package": "vetiver"
   },
   {
-    "package": "webdriver",
-    "oncran": true
+    "package": "webdriver"
   },
   {
-    "package": "webshot2",
-    "oncran": true
+    "package": "webshot2"
   },
   {
-    "package": "websocket",
-    "oncran": true
+    "package": "websocket"
   }
 ]
