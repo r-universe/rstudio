@@ -10,5 +10,11 @@
     "url": "https://github.com/r-lib/rlang",
     "via": ["pins"],
     "from": "pins"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/r-lib/testthat",
+    "via": ["vetiver"],
+    "from": "vetiver"
   }
 ]
