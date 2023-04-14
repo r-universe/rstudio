@@ -353,11 +353,6 @@
 	url = https://github.com/rstudio/websocket
 	shallow = true
 	registered = true
-[submodule "rlang"]
-	path = rlang
-	url = https://github.com/r-lib/rlang
-	shallow = true
-	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
