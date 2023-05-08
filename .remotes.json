@@ -14,8 +14,20 @@
   {
     "package": "gradethis",
     "url": "https://github.com/rstudio/gradethis",
+    "via": ["ggcheck"],
+    "from": "ggcheck"
+  },
+  {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
     "via": ["tblcheck"],
     "from": "tblcheck"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["ggcheck", "gradethis"],
+    "from": "ggcheck"
   },
   {
     "package": "learnr",
