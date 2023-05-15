@@ -353,6 +353,11 @@
 	url = https://github.com/rstudio/websocket
 	shallow = true
 	registered = true
+[submodule "pkgload"]
+	path = pkgload
+	url = https://github.com/r-lib/pkgload
+	shallow = true
+	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
