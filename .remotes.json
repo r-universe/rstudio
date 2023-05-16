@@ -12,12 +12,6 @@
     "from": "tensorflow"
   },
   {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "via": ["vetiver"],
-    "from": "vetiver"
-  },
-  {
     "package": "webfakes",
     "url": "https://github.com/r-lib/webfakes",
     "via": ["pins"],
