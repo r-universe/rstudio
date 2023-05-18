@@ -358,8 +358,3 @@
 	url = https://github.com/r-lib/pkgload
 	shallow = true
 	registered = false
-[submodule "webfakes"]
-	path = webfakes
-	url = https://github.com/r-lib/webfakes
-	shallow = true
-	registered = false

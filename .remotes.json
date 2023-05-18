@@ -10,11 +10,5 @@
     "url": "https://github.com/rstudio/reticulate",
     "via": ["tensorflow"],
     "from": "tensorflow"
-  },
-  {
-    "package": "webfakes",
-    "url": "https://github.com/r-lib/webfakes",
-    "via": ["pins"],
-    "from": "pins"
   }
 ]
