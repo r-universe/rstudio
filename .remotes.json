@@ -1,5 +1,11 @@
 [
   {
+    "package": "docthis",
+    "url": "https://github.com/mdlincoln/docthis",
+    "via": ["academyDatasets"],
+    "from": "academyDatasets"
+  },
+  {
     "package": "ggcheck",
     "url": "https://github.com/rstudio/ggcheck",
     "via": ["gradecode", "gradethis"],
