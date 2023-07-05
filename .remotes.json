@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
+    "via": ["gradethis"],
+    "from": "gradethis"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["gradethis"],
+    "from": "gradethis"
+  }
+]
