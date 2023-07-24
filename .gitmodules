@@ -101,6 +101,9 @@
 [submodule "plumbertableau"]
 	path = plumbertableau
 	url = https://github.com/rstudio/plumbertableau
+[submodule "pointblank"]
+	path = pointblank
+	url = https://github.com/rstudio/pointblank
 [submodule "pool"]
 	path = pool
 	url = https://github.com/rstudio/pool
