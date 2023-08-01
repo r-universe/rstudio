@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DT"]
+	path = DT
+	url = https://github.com/rstudio/dt
 [submodule "bigD"]
 	path = bigD
 	url = https://github.com/rstudio/bigd
@@ -41,9 +44,6 @@
 [submodule "distill"]
 	path = distill
 	url = https://github.com/rstudio/distill
-[submodule "DT"]
-	path = DT
-	url = https://github.com/rstudio/dt
 [submodule "dygraphs"]
 	path = dygraphs
 	url = https://github.com/rstudio/dygraphs
