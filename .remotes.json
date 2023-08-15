@@ -4,11 +4,5 @@
     "url": "https://github.com/rstudio/chromote",
     "via": ["shinytest2"],
     "from": "shinytest2"
-  },
-  {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["keras"],
-    "from": "keras"
   }
 ]
