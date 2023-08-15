@@ -10,11 +10,5 @@
     "url": "https://github.com/rstudio/reticulate",
     "via": ["keras"],
     "from": "keras"
-  },
-  {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["tensorflow"],
-    "from": "tensorflow"
   }
 ]
