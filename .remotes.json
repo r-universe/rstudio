@@ -1,0 +1,8 @@
+[
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
+    "via": ["tensorflow"],
+    "from": "tensorflow"
+  }
+]
