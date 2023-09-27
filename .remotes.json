@@ -4,11 +4,5 @@
     "url": "https://github.com/rstudio/htmltools",
     "via": ["bslib"],
     "from": "bslib"
-  },
-  {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["tensorflow"],
-    "from": "tensorflow"
   }
 ]
