@@ -4,5 +4,11 @@
     "url": "https://github.com/rstudio/htmltools",
     "via": ["bslib"],
     "from": "bslib"
+  },
+  {
+    "package": "tensorflow",
+    "url": "https://github.com/rstudio/tensorflow",
+    "via": ["keras"],
+    "from": "keras"
   }
 ]
