@@ -6,6 +6,12 @@
     "from": "bslib"
   },
   {
+    "package": "leaflet.providers",
+    "url": "https://github.com/rstudio/leaflet.providers",
+    "via": ["leaflet"],
+    "from": "leaflet"
+  },
+  {
     "package": "tensorflow",
     "url": "https://github.com/rstudio/tensorflow",
     "via": ["keras"],
