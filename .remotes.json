@@ -6,12 +6,6 @@
     "from": "bslib"
   },
   {
-    "package": "leaflet.providers",
-    "url": "https://github.com/rstudio/leaflet.providers",
-    "via": ["leaflet"],
-    "from": "leaflet"
-  },
-  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
