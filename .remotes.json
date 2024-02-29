@@ -1,5 +1,11 @@
 [
   {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
+    "via": ["vetiver"],
+    "from": "vetiver"
+  },
+  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
