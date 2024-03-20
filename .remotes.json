@@ -12,12 +12,6 @@
     "from": "vetiver"
   },
   {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["bslib"],
-    "from": "bslib"
-  },
-  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
