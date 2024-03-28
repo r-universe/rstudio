@@ -8,6 +8,12 @@
   {
     "package": "reticulate",
     "url": "https://github.com/rstudio/reticulate",
+    "via": ["keras3"],
+    "from": "keras3"
+  },
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
     "via": ["vetiver"],
     "from": "vetiver"
   },
@@ -16,5 +22,11 @@
     "url": "https://github.com/rstudio/shiny",
     "via": ["bslib"],
     "from": "bslib"
+  },
+  {
+    "package": "tensorflow",
+    "url": "https://github.com/rstudio/tensorflow",
+    "via": ["keras3"],
+    "from": "keras3"
   }
 ]
