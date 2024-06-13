@@ -73,7 +73,7 @@
 	url = https://github.com/rstudio/juicyjuice
 [submodule "keras3"]
 	path = keras3
-	url = https://github.com/rstudio/keras
+	url = https://github.com/rstudio/keras3
 [submodule "leaflet"]
 	path = leaflet
 	url = https://github.com/rstudio/leaflet
