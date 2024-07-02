@@ -110,9 +110,6 @@
 [submodule "pool"]
 	path = pool
 	url = https://github.com/rstudio/pool
-[submodule "profvis"]
-	path = profvis
-	url = https://github.com/rstudio/profvis
 [submodule "promises"]
 	path = promises
 	url = https://github.com/rstudio/promises
