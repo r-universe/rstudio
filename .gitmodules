@@ -215,3 +215,7 @@
 [submodule "websocket"]
 	path = websocket
 	url = https://github.com/rstudio/websocket
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
+	registered = false
