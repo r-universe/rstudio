@@ -4,11 +4,5 @@
     "url": "https://github.com/rstudio/reticulate",
     "via": ["vetiver"],
     "from": "vetiver"
-  },
-  {
-    "package": "xfun",
-    "url": "https://github.com/yihui/xfun",
-    "via": ["bookdown"],
-    "from": "bookdown"
   }
 ]
