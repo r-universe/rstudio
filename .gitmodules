@@ -32,9 +32,6 @@
 [submodule "config"]
 	path = config
 	url = https://github.com/rstudio/config
-[submodule "connectapi"]
-	path = connectapi
-	url = https://github.com/rstudio/connectapi
 [submodule "connections"]
 	path = connections
 	url = https://github.com/rstudio/connections
