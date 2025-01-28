@@ -2,6 +2,12 @@
   {
     "package": "reticulate",
     "url": "https://github.com/rstudio/reticulate",
+    "via": ["tensorflow"],
+    "from": "tensorflow"
+  },
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
     "via": ["vetiver"],
     "from": "vetiver"
   }
