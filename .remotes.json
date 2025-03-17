@@ -2,6 +2,12 @@
   {
     "package": "reticulate",
     "url": "https://github.com/rstudio/reticulate",
+    "via": ["keras3"],
+    "from": "keras3"
+  },
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
     "via": ["vetiver"],
     "from": "vetiver"
   }
