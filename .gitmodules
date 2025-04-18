@@ -83,6 +83,9 @@
 [submodule "markdown"]
 	path = markdown
 	url = https://github.com/rstudio/markdown
+[submodule "miniUI"]
+	path = miniUI
+	url = https://github.com/rstudio/miniui
 [submodule "nomnoml"]
 	path = nomnoml
 	url = https://github.com/rstudio/nomnoml
