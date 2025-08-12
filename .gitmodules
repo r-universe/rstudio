@@ -182,9 +182,6 @@
 [submodule "tfdatasets"]
 	path = tfdatasets
 	url = https://github.com/rstudio/tfdatasets
-[submodule "tfestimators"]
-	path = tfestimators
-	url = https://github.com/rstudio/tfestimators
 [submodule "tfhub"]
 	path = tfhub
 	url = https://github.com/rstudio/tfhub
