@@ -29,6 +29,9 @@
 [submodule "chromote"]
 	path = chromote
 	url = https://github.com/rstudio/chromote
+[submodule "cloudml"]
+	path = cloudml
+	url = https://github.com/rstudio/cloudml
 [submodule "config"]
 	path = config
 	url = https://github.com/rstudio/config
@@ -182,6 +185,9 @@
 [submodule "tfdatasets"]
 	path = tfdatasets
 	url = https://github.com/rstudio/tfdatasets
+[submodule "tfestimators"]
+	path = tfestimators
+	url = https://github.com/rstudio/tfestimators
 [submodule "tfhub"]
 	path = tfhub
 	url = https://github.com/rstudio/tfhub
