@@ -113,6 +113,10 @@
 [submodule "pool"]
 	path = pool
 	url = https://github.com/rstudio/pool
+[submodule "probably"]
+	path = probably
+	url = https://github.com/tidymodels/probably
+	registered = false
 [submodule "promises"]
 	path = promises
 	url = https://github.com/rstudio/promises

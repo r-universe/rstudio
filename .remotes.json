@@ -1,5 +1,11 @@
 [
   {
+    "package": "probably",
+    "url": "https://github.com/tidymodels/probably",
+    "via": ["vetiver"],
+    "from": "vetiver"
+  },
+  {
     "package": "reticulate",
     "url": "https://github.com/rstudio/reticulate",
     "via": ["vetiver"],
