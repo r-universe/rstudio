@@ -6,6 +6,12 @@
     "from": "vetiver"
   },
   {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises",
+    "via": ["shiny"],
+    "from": "shiny"
+  },
+  {
     "package": "reticulate",
     "url": "https://github.com/rstudio/reticulate",
     "via": ["vetiver"],
