@@ -1,8 +1,0 @@
-[
-  {
-    "package": "promises",
-    "url": "https://github.com/rstudio/promises",
-    "via": ["shiny"],
-    "from": "shiny"
-  }
-]
