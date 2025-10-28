@@ -1,20 +1,8 @@
 [
   {
-    "package": "probably",
-    "url": "https://github.com/tidymodels/probably",
-    "via": ["vetiver"],
-    "from": "vetiver"
-  },
-  {
     "package": "promises",
     "url": "https://github.com/rstudio/promises",
     "via": ["shiny"],
     "from": "shiny"
-  },
-  {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["vetiver"],
-    "from": "vetiver"
   }
 ]
