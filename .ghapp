@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["distill"]
+  "repositories": ["distill", "rstudio.r-universe.dev"]
 }
