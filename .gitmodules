@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rstudio/rstudio.r-universe.dev
 	branch = HEAD
 [submodule "DT"]
 	path = DT
@@ -56,6 +56,12 @@
 [submodule "fontawesome"]
 	path = fontawesome
 	url = https://github.com/rstudio/fontawesome
+[submodule "ggcheck"]
+	path = ggcheck
+	url = https://github.com/rstudio/ggcheck
+[submodule "gradethis"]
+	path = gradethis
+	url = https://github.com/rstudio/gradethis
 [submodule "graphframes"]
 	path = graphframes
 	url = https://github.com/rstudio/graphframes
@@ -179,6 +185,9 @@
 [submodule "swagger"]
 	path = swagger
 	url = https://github.com/rstudio/swagger
+[submodule "tblcheck"]
+	path = tblcheck
+	url = https://github.com/rstudio/tblcheck
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/rstudio/tensorflow
