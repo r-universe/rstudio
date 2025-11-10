@@ -2,6 +2,12 @@
   {
     "package": "ggcheck",
     "url": "https://github.com/rstudio/ggcheck",
+    "via": ["gradecode", "gradethis"],
+    "from": "gradecode"
+  },
+  {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
     "via": ["gradethis"],
     "from": "gradethis"
   },
@@ -20,6 +26,12 @@
   {
     "package": "gradethis",
     "url": "https://github.com/rstudio/gradethis",
+    "via": ["gradecode"],
+    "from": "gradecode"
+  },
+  {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
     "via": ["tblcheck"],
     "from": "tblcheck"
   },
@@ -28,6 +40,12 @@
     "url": "https://github.com/rstudio/learnr",
     "via": ["ggcheck", "gradethis"],
     "from": "ggcheck"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["gradecode", "gradethis"],
+    "from": "gradecode"
   },
   {
     "package": "learnr",
