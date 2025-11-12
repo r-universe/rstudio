@@ -1,0 +1,235 @@
+[submodule ".registry"]
+	path = .registry
+	url = https://github.com/rstudio/rstudio.r-universe.dev
+	branch = HEAD
+[submodule "DT"]
+	path = DT
+	url = https://github.com/rstudio/dt
+[submodule "academyDatasets"]
+	path = academyDatasets
+	url = https://github.com/rstudio/academyDatasets
+[submodule "bigD"]
+	path = bigD
+	url = https://github.com/rstudio/bigd
+[submodule "blastula"]
+	path = blastula
+	url = https://github.com/rstudio/blastula
+[submodule "blogdown"]
+	path = blogdown
+	url = https://github.com/rstudio/blogdown
+[submodule "bookdown"]
+	path = bookdown
+	url = https://github.com/rstudio/bookdown
+[submodule "bsicons"]
+	path = bsicons
+	url = https://github.com/rstudio/bsicons
+[submodule "bslib"]
+	path = bslib
+	url = https://github.com/rstudio/bslib
+[submodule "bundle"]
+	path = bundle
+	url = https://github.com/rstudio/bundle
+[submodule "chromote"]
+	path = chromote
+	url = https://github.com/rstudio/chromote
+[submodule "cloudml"]
+	path = cloudml
+	url = https://github.com/rstudio/cloudml
+[submodule "config"]
+	path = config
+	url = https://github.com/rstudio/config
+[submodule "connections"]
+	path = connections
+	url = https://github.com/rstudio/connections
+[submodule "connectwidgets"]
+	path = connectwidgets
+	url = https://github.com/rstudio/connectwidgets
+[submodule "crosstalk"]
+	path = crosstalk
+	url = https://github.com/rstudio/crosstalk
+[submodule "distill"]
+	path = distill
+	url = https://github.com/rstudio/distill
+[submodule "dygraphs"]
+	path = dygraphs
+	url = https://github.com/rstudio/dygraphs
+[submodule "flexdashboard"]
+	path = flexdashboard
+	url = https://github.com/rstudio/flexdashboard
+[submodule "fontawesome"]
+	path = fontawesome
+	url = https://github.com/rstudio/fontawesome
+[submodule "ggcheck"]
+	path = ggcheck
+	url = https://github.com/rstudio/ggcheck
+[submodule "gradecode"]
+	path = gradecode
+	url = https://github.com/rstudio/gradecode
+[submodule "gradethis"]
+	path = gradethis
+	url = https://github.com/rstudio/gradethis
+[submodule "graphframes"]
+	path = graphframes
+	url = https://github.com/rstudio/graphframes
+[submodule "gt"]
+	path = gt
+	url = https://github.com/rstudio/gt
+[submodule "htmltools"]
+	path = htmltools
+	url = https://github.com/rstudio/htmltools
+[submodule "httpuv"]
+	path = httpuv
+	url = https://github.com/rstudio/httpuv
+[submodule "juicyjuice"]
+	path = juicyjuice
+	url = https://github.com/rstudio/juicyjuice
+[submodule "keras3"]
+	path = keras3
+	url = https://github.com/rstudio/keras3
+[submodule "leaflet"]
+	path = leaflet
+	url = https://github.com/rstudio/leaflet
+[submodule "leaflet.providers"]
+	path = leaflet.providers
+	url = https://github.com/rstudio/leaflet.providers
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+[submodule "markdown"]
+	path = markdown
+	url = https://github.com/rstudio/markdown
+[submodule "miniUI"]
+	path = miniUI
+	url = https://github.com/rstudio/miniui
+[submodule "nomnoml"]
+	path = nomnoml
+	url = https://github.com/rstudio/nomnoml
+[submodule "packrat"]
+	path = packrat
+	url = https://github.com/rstudio/packrat
+[submodule "pagedown"]
+	path = pagedown
+	url = https://github.com/rstudio/pagedown
+[submodule "pins"]
+	path = pins
+	url = https://github.com/rstudio/pins-r
+[submodule "plumber"]
+	path = plumber
+	url = https://github.com/rstudio/plumber
+[submodule "plumbertableau"]
+	path = plumbertableau
+	url = https://github.com/rstudio/plumbertableau
+[submodule "pointblank"]
+	path = pointblank
+	url = https://github.com/rstudio/pointblank
+[submodule "pool"]
+	path = pool
+	url = https://github.com/rstudio/pool
+[submodule "promises"]
+	path = promises
+	url = https://github.com/rstudio/promises
+[submodule "r2d3"]
+	path = r2d3
+	url = https://github.com/rstudio/r2d3
+[submodule "reactlog"]
+	path = reactlog
+	url = https://github.com/rstudio/reactlog
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+[submodule "reticulate"]
+	path = reticulate
+	url = https://github.com/rstudio/reticulate
+[submodule "revealjs"]
+	path = revealjs
+	url = https://github.com/rstudio/revealjs
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
+[submodule "rsconnect"]
+	path = rsconnect
+	url = https://github.com/rstudio/rsconnect
+[submodule "rscontract"]
+	path = rscontract
+	url = https://github.com/rstudio/rscontract
+[submodule "rstudioapi"]
+	path = rstudioapi
+	url = https://github.com/rstudio/rstudioapi
+[submodule "rticles"]
+	path = rticles
+	url = https://github.com/rstudio/rticles
+[submodule "sass"]
+	path = sass
+	url = https://github.com/rstudio/sass
+[submodule "shiny"]
+	path = shiny
+	url = https://github.com/rstudio/shiny
+[submodule "shinydashboard"]
+	path = shinydashboard
+	url = https://github.com/rstudio/shinydashboard
+[submodule "shinyloadtest"]
+	path = shinyloadtest
+	url = https://github.com/rstudio/shinyloadtest
+[submodule "shinymeta"]
+	path = shinymeta
+	url = https://github.com/rstudio/shinymeta
+[submodule "shinytest"]
+	path = shinytest
+	url = https://github.com/rstudio/shinytest
+[submodule "shinytest2"]
+	path = shinytest2
+	url = https://github.com/rstudio/shinytest2
+[submodule "shinythemes"]
+	path = shinythemes
+	url = https://github.com/rstudio/shinythemes
+[submodule "shinyvalidate"]
+	path = shinyvalidate
+	url = https://github.com/rstudio/shinyvalidate
+[submodule "sortable"]
+	path = sortable
+	url = https://github.com/rstudio/sortable
+[submodule "swagger"]
+	path = swagger
+	url = https://github.com/rstudio/swagger
+[submodule "tblcheck"]
+	path = tblcheck
+	url = https://github.com/rstudio/tblcheck
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/rstudio/tensorflow
+[submodule "tfdatasets"]
+	path = tfdatasets
+	url = https://github.com/rstudio/tfdatasets
+[submodule "tfestimators"]
+	path = tfestimators
+	url = https://github.com/rstudio/tfestimators
+[submodule "tfhub"]
+	path = tfhub
+	url = https://github.com/rstudio/tfhub
+[submodule "tfprobability"]
+	path = tfprobability
+	url = https://github.com/rstudio/tfprobability
+[submodule "tfruns"]
+	path = tfruns
+	url = https://github.com/rstudio/tfruns
+[submodule "thematic"]
+	path = thematic
+	url = https://github.com/rstudio/thematic
+[submodule "tinytex"]
+	path = tinytex
+	url = https://github.com/rstudio/tinytex
+[submodule "tufte"]
+	path = tufte
+	url = https://github.com/rstudio/tufte
+[submodule "vetiver"]
+	path = vetiver
+	url = https://github.com/rstudio/vetiver-r
+[submodule "webdriver"]
+	path = webdriver
+	url = https://github.com/rstudio/webdriver
+[submodule "webshot2"]
+	path = webshot2
+	url = https://github.com/rstudio/webshot2
+[submodule "websocket"]
+	path = websocket
+	url = https://github.com/rstudio/websocket
