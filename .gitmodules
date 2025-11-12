@@ -5,6 +5,9 @@
 [submodule "DT"]
 	path = DT
 	url = https://github.com/rstudio/dt
+[submodule "academyDatasets"]
+	path = academyDatasets
+	url = https://github.com/rstudio/academyDatasets
 [submodule "bigD"]
 	path = bigD
 	url = https://github.com/rstudio/bigd
@@ -59,6 +62,9 @@
 [submodule "ggcheck"]
 	path = ggcheck
 	url = https://github.com/rstudio/ggcheck
+[submodule "gradecode"]
+	path = gradecode
+	url = https://github.com/rstudio/gradecode
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
