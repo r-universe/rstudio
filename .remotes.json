@@ -64,5 +64,12 @@
     "url": "https://github.com/rstudio/learnr",
     "via": ["tblcheck", "gradethis"],
     "from": "tblcheck"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/schloerke/testthat",
+    "via": ["shinytest2"],
+    "branch": "patch-2",
+    "from": "shinytest2"
   }
 ]
