@@ -201,11 +201,6 @@
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/rstudio/tensorflow
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/schloerke/testthat
-	branch = patch-2
-	registered = false
 [submodule "tfdatasets"]
 	path = tfdatasets
 	url = https://github.com/rstudio/tfdatasets
