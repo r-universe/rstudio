@@ -1,11 +1,5 @@
 [
   {
-    "package": "butcher",
-    "url": "https://github.com/tidymodels/butcher",
-    "via": ["bundle"],
-    "from": "bundle"
-  },
-  {
     "package": "docthis",
     "url": "https://github.com/mdlincoln/docthis",
     "via": ["academyDatasets"],
