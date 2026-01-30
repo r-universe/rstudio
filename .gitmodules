@@ -50,10 +50,6 @@
 [submodule "distill"]
 	path = distill
 	url = https://github.com/rstudio/distill
-[submodule "docthis"]
-	path = docthis
-	url = https://github.com/mdlincoln/docthis
-	registered = false
 [submodule "dygraphs"]
 	path = dygraphs
 	url = https://github.com/rstudio/dygraphs
